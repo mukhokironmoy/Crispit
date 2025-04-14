@@ -62,7 +62,7 @@ if __name__ == '__main__':
     mode = int(input())
     
     set_list()
-    open("result.txt", "w").close()
+    open("data/result.txt", "w").close()
     
     match mode:
         case 1:
