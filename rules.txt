@@ -1,0 +1,107 @@
+Use the following instructions to generate a clean, well-organized, and complete report based on a news transcript. The goal is to extract **every topic covered** and break them down using a clear hierarchical structure with headings, subheadings, and bullet points.
+
+General Formatting Rules:
+
+1)Index at the Top:
+Begin with a section titled: `## Index of Topics Covered in the Notes`.  
+List all main topics mentioned in the transcript.  
+Number each topic clearly (e.g., 1, 2, 3, ...).  
+Each item should match the main headline sections below.
+Use numbered bullets in markdown language for this.
+
+2)Main Topics as Headings
+Each main topic must be formatted as a level-two heading: `##`.  
+Headings must be short, clear, and informative (e.g., `## Putin-Trump Ukraine Ceasefire Talks`).
+
+
+3)Subheadings for Subtopics
+Use a level-three headings (`###`) under each main topic to give a short contextual intro labeled as `###1.0 Intro to Topic` `###2.0 Intro to Topic` etc.
+This intro should contain a few points which can give context to the reader about the ongoing event by telling a few things that have been going on.
+After that, subtopics should be labeled using numbered decimal format like `###1.1`, `###1.2`, `###2.1`, etc 
+
+4)Subtopic Format
+Each subtopic should used unordered lists (bullets) as its points with an indent of 2 spaces
+
+###1.1 Tariff Imposition
+  - Tariffs, including a 104% tariff on Chinese goods, were implemented.
+  - The tariffs applied to cargo loaded after the midnight deadline.
+  - Economists and business leaders widely criticized the tariffs.
+
+5)Language and Style
+Use neutral, objective, and concise language.  
+Avoid complex sentences and jargon.  
+Ensure every bullet clearly communicates a single fact or idea.
+Maintain uniform spacing.
+
+6)Completeness
+Cover ALL topics and subtopics mentioned in the transcript.  
+DO NOT OMMIT any events, names, or issues—even minor ones.  
+Maintain chronological or logical flow where applicable.
+
+---
+
+Output Example:
+## Index of Topics Covered in the Notes
+1. Trump's Tariffs and Global Market Reaction
+2. China's Response to Trump's Tariffs
+3. India's Response to Trump's Tariffs
+4. Elon Musk's Dispute with Trump's Trade Officials
+5. Alleged Chinese Soldiers Fighting in Ukraine
+6. NATO's Engagement in the Indo-Pacific
+7. Indonesia's Offer of Aid to Palestinians
+8. U.S. Potential Return to Bagram Air Base
+9. Google's "Do Nothing" AI Contracts
+10. Exodus of Millionaires from London and Moscow
+11. Vantage Shorts: News in Brief
+
+
+---
+
+## 1. Trump's Tariffs and Global Market Reaction
+
+### Intro to Topic
+  - Donald Trump's tariffs officially went into effect, impacting various countries.
+  - Markets reacted negatively worldwide, with significant drops.
+  - Trump remained defiant, claiming leaders are eager to negotiate deals.
+
+
+1.1 Tariff Imposition
+  - Tariffs, including a 104% tariff on Chinese goods, were implemented.
+  - The tariffs applied to cargo loaded after the midnight deadline.
+  - Economists and business leaders widely criticized the tariffs.
+
+1.2 Market Reactions
+  - Global markets plunged upon opening, staging a minor recovery before further declines.
+  - Oil prices fell to their lowest since early 2021, indicating economic slowdown concerns.
+  - The situation is considered a man-made crisis with potential exit ramps through trade deals.
+
+
+1.3 Trump's Negotiation Strategy
+  - Trump expressed openness to negotiations, aiming for "tailored deals" with individual countries.
+  - The White House clarified that deals would factor in variables like foreign aid and military presence.
+  - Negotiating customized deals with numerous countries could take months or years.
+
+
+---
+
+## 2. China's Response to Trump's Tariffs
+
+### Intro to Topic
+  - China faced a 104% import duty on its goods in the U.S., prompting retaliatory actions.
+  - Trump increased tariffs on China due to their retaliatory measures.
+  - Despite the escalation, Trump believes China wants a deal.
+
+
+2.1 China's Retaliation
+  - China increased retaliatory tariffs on U.S. imports to 84%.
+  - They stated their readiness to fight the tariffs to the end, rejecting what they called "arrogant and bullying behavior."
+  - Beijing is considering further actions, including banning U.S. companies and limiting rare earth exports.
+
+
+2.2 China's Long-Term Strategy
+  - China's largest trading partner is the U.S., with over $440 billion in goods purchased annually.
+  - China is seeking alternative markets and strengthening ties with countries like Japan, South Korea, and the EU.
+  - They are also reaching out to India, suggesting joint action against Trump's tariffs.
+
+
+
