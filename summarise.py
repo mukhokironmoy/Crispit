@@ -3,8 +3,9 @@ from google.genai import types
 import pathlib
 import os
 from dotenv import load_dotenv
+import md_to_pdf
 
-def news():
+def news(date):
   load_dotenv()
 
   client = genai.Client(api_key=os.getenv('api_key'))
@@ -38,5 +39,8 @@ def news():
       f.write(response.text)
       
   print("Saved")
+  md_to_pdf.convert(date)
+  
+  
   print("View result.txt to view results!")
     

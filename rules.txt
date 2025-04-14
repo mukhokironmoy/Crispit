@@ -2,8 +2,13 @@ Use the following instructions to generate a clean, well-organized, and complete
 
 General Formatting Rules:
 
+0)Title of the document
+The transcript begins with a date. Use that date in the title
+Begin with a title as "<date> : News Bulletin" as a level 1 heading with '#' like
+#12-10-2025 : News Bulletin
+
 1)Index at the Top:
-Begin with a section titled: `## Index of Topics Covered in the Notes`.  
+Add a section titled: `## Index of Topics Covered in the Notes`.  
 List all main topics mentioned in the transcript.  
 Number each topic clearly (e.g., 1, 2, 3, ...).  
 Each item should match the main headline sections below.
