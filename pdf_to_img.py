@@ -10,7 +10,7 @@ def clean_dir(folder_path):
             os.remove(file_path)
     print("Folder Cleaned.")
     
-def convert(path):
+def convert_to_img(path):
     path = Path(path)
     images = fitz.open(path)
     output_path = Path(r'data\input\imgs')
@@ -24,7 +24,7 @@ def convert(path):
     print("\n\nConversion successfull")    
     
 
-convert('data\input\pdfs\Somnath Sharma.pdf')
+# convert_to_img('data\input\pdfs\Somnath Sharma.pdf')
 
 
 
