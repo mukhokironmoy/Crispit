@@ -42,5 +42,5 @@ def news(date):
   md_to_pdf.convert(date)
   
   
-  print("View result.txt to view results!")
+
     

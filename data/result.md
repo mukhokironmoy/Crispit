@@ -1,245 +1,212 @@
-# 18-04-2025 : News Bulletin
+# 14-04-2025 : News Bulletin
 
 ## Index of Topics Covered in the Notes
 
-1. US-China Trade War and Potential Ceasefire
-2. Trump's Conflict with the Federal Reserve
-3. Nvidia's Dilemma in the US-China Tech War
-4. US Attempts to Revitalize Domestic Shipbuilding
-5. Bangladesh-Pakistan Relations and Implications for India
-6. Google's Antitrust Case and Online Advertising Monopoly
-7. China's Proxy Wars in Yemen and Ukraine
-8. Addressing Hinduphobia in Scotland and Other Western Nations
-9. US-Iran Nuclear Deal Negotiations
-10. The Complexity of English Spelling
-11. UNESCO Honors Bhagavad Gita and Natya Shastra on World Heritage Day
-12. Donald Trump's Geographical Misconceptions
+1. US-China Trade War and Economic Fallout
+2. Russia's Attacks on Ukraine and International Response
+3. US Teenager's Plot to Assassinate President Trump
+4. North Korea's New Warship and Regional Arms Race
+5. India's New Laser Weapon System
+6. The Booming Doomsday Bunker Industry
+7. International News Briefs
 
 
-## 1. US-China Trade War and Potential Ceasefire
+## 1. US-China Trade War and Economic Fallout
 
 ### 1.0 Intro to Topic
-  - Weeks of indiscriminate firing in the US-China trade war lead to discussions of a ceasefire.
-  - Donald Trump suggests a potential deal with China within 3-4 weeks.
-  - The impact of this deal on the global economy, particularly on companies like Nvidia, is uncertain.
+  - President Trump's imposition of tariffs on Chinese goods, particularly technology products, has caused a seismic shift in the US-China trade war.
+  -  This has led to market volatility, with concerns of a recession or worse, and a flight to safe haven assets like gold.
+  - Trump's administration has offered exemptions for some products, creating confusion and raising concerns about US credibility.
 
-### 1.1 Trump's Statements on a Potential Deal
-  - Trump expresses confidence in reaching a deal with China within 3-4 weeks.
-  - He hints at potentially lowering tariffs to stimulate consumer demand.
-  - His rhetoric has shifted from aggressive accusations to a more conciliatory tone.
+### 1.1 Trump's Tariff Rollback
+  - Trump unexpectedly rolled back tariffs on certain Chinese technology products, causing a market rebound.
+  - The rollback was announced by US Customs, not directly by Trump.
+  -  This includes products like smartphones and laptops.
 
-### 1.2 Analysis of Trump's Actions and Motivations
-  - Trump's erratic behavior makes his actions difficult to analyze.
-  - His earlier rhetoric suggested a desire to address trade deficits and bring jobs back to America.
-  - The potential for a quick deal suggests he might be facing pressure from investors and businesses.
+### 1.2  Reasons for Rollback
+  - The US's heavy dependence on China for electronics manufacturing made the tariffs unaffordable for American consumers.
+  - Public disapproval of Trump's handling of the economy, reaching 56%, influenced the decision.
+
+### 1.3  Further Tariff Plans
+  -  Despite the rollback, Trump maintains that his tariff policy remains in place and intends to introduce new tariffs on semiconductors and other electronics.
+  - A national security investigation into semiconductors and the electronics supply chain is underway.
+  - New tariffs are expected within two months.
+
+### 1.4 Economic Consequences
+  - The tariffs have created market volatility and trillions of dollars in losses.
+  - Top banks and billionaire investors like Ray Dalio are predicting a recession or worse, citing potential breakdowns in global relations.
+  - The dollar has fallen to a six-month low.
 
 
-## 2. Trump's Conflict with the Federal Reserve
+### 1.5 China's Strategy
+  - Xi Jinping's Southeast Asia tour emphasizes regional stability and investment, contrasting with Trump's unpredictable policies.
+  - China is looking to deepen its relationships with its largest trading partners in the region (Vietnam, Malaysia, Cambodia).
+  - Xi Jinping’s statements suggest China does not want to escalate the trade war.
+
+
+## 2. Russia's Attacks on Ukraine and International Response
 
 ### 2.0 Intro to Topic
-  - Trump expresses anger towards Federal Reserve Chairman Jerome Powell due to disagreement on economic policy.
-  - He desires lower interest rates to stimulate the economy, while Powell prioritizes combating inflation.
-  - The legality of Trump firing or demoting Powell is debated among legal scholars.
-
-### 2.1 Trump's Desire for Lower Interest Rates
-  - Trump wants the Fed to lower interest rates to boost the economy and encourage consumer spending.
-  - He accuses Powell of being "too late" and "too slow" in responding to economic challenges.
-  - He publicly states his intention to remove Powell from his position.
-
-### 2.2 Powell's Refusal to Resign and Legal Ramifications
-  - Powell refuses to resign, asserting that he is not legally required to comply with Trump's demands.
-  - The legality of firing the Fed Chair is uncertain and unprecedented in US history.
-  - Legal scholars debate whether policy disagreements constitute "cause" for dismissal under the Federal Reserve Act.
-
-### 2.3 Alternative Actions and Potential Consequences
-  - Demoting Powell, while keeping him as a board member, is considered as a possible alternative.
-  - This would be an unprecedented move and its legality is uncertain.
-  - Firing or demoting Powell could severely damage the US economy and global confidence.
+  -  Russia launched deadly missile attacks on Ukraine on Palm Sunday, killing civilians, including children.
+  -  The attacks sparked international condemnation, with some countries calling for stronger action against Russia.
+  -  Trump's response was notable for downplaying the severity of the attacks and assigning blame to the Biden administration.
 
 
-## 3. Nvidia's Dilemma in the US-China Tech War
+### 2.1  Palm Sunday Attacks
+  -  Missile strikes in Sumy killed 34 people and wounded 117.
+  -  Kiev also faced attacks, including one on an Indian pharmaceutical company's warehouse.
+  - Ukrainian President Zelenskyy strongly condemned the attacks and called for a global response.
+
+### 2.2 International Reactions
+  -  European leaders like Macron and Sunak condemned the attacks.
+  -  Trump called the attacks "terrible" and a "mistake," attributing responsibility to the Biden administration.
+  - Trump's special envoy, Steve Witkov, met with Putin in Russia to discuss a ceasefire.
+
+
+### 2.3  Proposed Partition of Ukraine
+  -  Trump's envoy to Ukraine, Keith Kellogg, proposed partitioning Ukraine, similar to post-WWII Germany.
+  -  This proposal was met with strong opposition from Ukraine and Europe.
+  - Zelenskyy urged Trump to visit Ukraine to see the devastation.
+
+### 2.4 Germany's Potential Military Aid
+  -  Germany's incoming chancellor, Friedrich Merz, is considering providing Ukraine with Taurus missiles.
+  -  Germany previously hesitated due to concerns about the missiles' range and potential escalation.
+  -  Merz's support is contingent on coordination with European allies.
+
+
+## 3. US Teenager's Plot to Assassinate President Trump
 
 ### 3.0 Intro to Topic
-  - Nvidia, a major AI chip manufacturer, is caught in the crossfire of the US-China trade war.
-  - Trump's ban on the sale of Nvidia's H20 chip to China significantly impacts Nvidia's revenue.
-  - Nvidia's CEO, Jensen Huang, is navigating a complex situation by engaging with both the US and Chinese governments.
+  - A 17-year-old from Wisconsin, Nikita Kasab, was arrested and charged with murdering his parents.
+  - The FBI's involvement stems from evidence suggesting the murders were part of a larger plot to assassinate President Trump and overthrow the government.
+  - The case highlights concerns about the influence of online extremism among youth.
 
 
-### 3.1 Trump's Ban on Nvidia's H20 Chip
-  - Trump banned Nvidia from selling its H20 AI chip to China, adding to existing export controls.
-  - This ban affects billions of dollars in potential revenue for Nvidia.
-  - The H20 chip was designed to comply with previous export restrictions but was still banned.
+### 3.1  The Murders and Investigation
+  - Kasab allegedly killed his parents to obtain funds and resources for his planned assassination.
+  - Authorities found $14,000 in cash, jewelry, and a firearm in his possession.
+  -  He faces multiple felony charges, including murder and concealing corpses.
 
-### 3.2 Nvidia's Response and Strategies
-  - Nvidia's CEO, Jensen Huang, is trying to maintain business with China despite restrictions.
-  - He assured Chinese firms of continued cooperation and pledged to develop compliant products.
-  - Nvidia is simultaneously lobbying the US government and making investments in the US.
+### 3.2  The Assassination Plot
+  - Kasab allegedly planned to assassinate President Trump and trigger a political revolution.
+  - He is linked to the Order of Nine Angels, a neo-Nazi terrorist network.
+  -  He allegedly purchased a drone and explosives to carry out the assassination.
 
-### 3.3 Implications for Nvidia and the Broader Tech Landscape
-  - The ban significantly impacts Nvidia's revenue and future growth in the Chinese market.
-  - China is simultaneously promoting the development of domestic AI chip alternatives.
-  - The situation highlights the increasing difficulty of maintaining neutrality in the US-China tech rivalry.
+### 3.3  Rise in Youth Violence
+  - The case highlights a rise in youth violence in some US cities.
+  - Social media and smartphones are implicated in radicalization and access to weapons.
+  -  Online extremist groups are actively recruiting and spreading propaganda through various platforms.
 
 
-## 4. US Attempts to Revitalize Domestic Shipbuilding
+## 4. North Korea's New Warship and Regional Arms Race
 
 ### 4.0 Intro to Topic
-  - The US aims to revive its domestic shipbuilding industry by targeting Chinese-made ships.
-  - Trump proposes increased port fees for Chinese-built vessels entering US ports.
-  - China's dominance in global shipbuilding poses a major challenge to this initiative.
-
-### 4.1 Trump's Policy on Chinese-Made Ships
-  - Trump aims to incentivize US shipbuilding by imposing higher taxes on Chinese-made ships.
-  - The initial proposal of a $3.5 million per-ship fee was later modified.
-  - The revised plan charges fees based on cargo weight and limits it to five times a year.
-
-### 4.2 China's Response and Global Implications
-  - China criticizes the policy, arguing it increases global shipping costs and harms consumers.
-  - The policy faces pushback from US industries reliant on imported goods.
-  - China's significant share of the global shipbuilding market makes it difficult to bypass their industry.
-
-### 4.3 Challenges and Long-Term Prospects
-  - The long lead times in shipbuilding (6-7 years) make this a long-term strategy.
-  - This means any positive effects would not be seen quickly enough during a presidential term.
-  - China's significant investments in shipbuilding make it a formidable competitor.
+  - North Korea is building its largest warship yet, estimated to be 140 meters long.
+  - Satellite images reveal the ship's construction at the Nampo shipyard.
+  -  This development fuels concerns about an escalating regional arms race and North Korea's growing military capabilities.
 
 
-## 5. Bangladesh-Pakistan Relations and Implications for India
+### 4.1  The New Warship
+  - The warship is believed to be capable of carrying ballistic missiles, potentially including hypersonic missiles.
+  - The ship's construction suggests a close collaboration with Russia, which is providing North Korea with military technology in return for troops fighting on their side.
+  -  Experts believe the warship is a statement of North Korea’s growing power and military intentions.
+
+### 4.2  Russia's Role
+  - North Korea and Russia have strengthened relations since the meeting between Kim Jong-un and Putin in June 2024.
+  - North Korea is sending troops to fight alongside Russian forces in Ukraine.
+  -  Russia is providing North Korea with advanced military technology in return.
+
+
+### 4.3 Regional Implications
+  -  South Korea and Japan are likely to increase their defense spending and military cooperation with the US in response.
+  - The US is expanding its Indo-Pacific footprint, including establishing a new war command in Japan.
+  - The arms race adds another layer to the complicated geopolitical landscape of the region.
+
+
+## 5. India's New Laser Weapon System
 
 ### 5.0 Intro to Topic
-  - A high-level visit from Pakistan's foreign secretary to Bangladesh signals an attempt at resetting relations.
-  - Bangladesh's request for an apology from Pakistan for the 1971 genocide complicates matters.
-  - The implications of improving Bangladesh-Pakistan ties are concerning for India.
+- India successfully test-fired a domestically developed laser weapon capable of neutralizing aerial threats.
+- The test involved shooting down both a single drone and a swarm of drones using the 30-kilowatt directed energy weapon.
+- This puts India in an elite club of nations possessing this type of technology.
+
+### 5.1  Laser Weapon Test
+- The DRDO conducted the successful test of a 30-kilowatt directed energy weapon in Andhra Pradesh.
+- The weapon employs cameras and sensors to accurately target and destroy drones.
+- The technology offers a significant advantage over traditional anti-drone systems.
 
 
-### 5.1 Bangladesh's Request for an Apology
-  - Bangladesh demands an apology from Pakistan for the 1971 genocide.
-  - This request is made despite the apparent intention to reset relations.
-  - The seriousness of Bangladesh’s request and willingness to exert pressure remains unclear.
+### 5.2 Advantages of Laser Weapons
+- Laser weapons offer significant advantages over traditional anti-drone systems due to their energy efficiency and ability to engage multiple targets simultaneously without overheating.
+-  The system has demonstrated its ability to effectively counter drone threats.
+- The DRDO plans to develop larger laser weapons for use on warships and aircraft.
 
-### 5.2 Bangladesh-Pakistan Discussions and India's Concerns
-  - Bangladesh and Pakistan discussed trade, investment, and the 1971 war.
-  - Pakistan briefed Bangladesh on the Kashmir situation, a point of concern for India.
-  - Both countries also discussed reviving the South Asian Association for Regional Cooperation (SAARC).
+### 5.3 Strategic Implications
+- The development of this laser weapon system is a major boost to India's defense capabilities.
+- This development is likely to increase India's capability in defending itself from drone incursions, particularly those coming from Pakistan.
+- This places India among an elite group of nations - USA, China, and Russia - with such weaponry.
 
-### 5.3 India's Perspective and Tensions
-  - India views the Kashmir issue as a bilateral matter and objects to third-party involvement.
-  - India accuses Pakistan of hindering SAARC’s progress.
-  - Recent clashes in West Bengal further strained relations, with Bangladesh wading into the issue.
-
-
-## 6. Google's Antitrust Case and Online Advertising Monopoly
+## 6. The Booming Doomsday Bunker Industry
 
 ### 6.0 Intro to Topic
-  - A US court rules that Google holds a monopoly in online advertising technology.
-  - The Department of Justice and 17 states filed an antitrust lawsuit against Google.
-  - The ruling could lead to significant changes in the online advertising industry.
+- The market for doomsday bunkers and luxury survival shelters is experiencing rapid growth, projected to reach $3 billion by 2030.
+- The demand is fueled by a range of concerns, including nuclear war, pandemics, financial collapse, and civil unrest.
+-  High-net-worth individuals are leading the demand, investing millions of dollars in sophisticated shelters with advanced features.
 
-### 6.1 Google's Dominance in Online Advertising
-  - Google controls a large portion of the online advertising market through its various platforms.
-  - The court found Google abused its dominant position by favoring its own ad exchange (AdX).
-  - Google's unified pricing rules limited competition among ad exchanges.
-
-### 6.2 Potential Remedies and Impact on Big Tech
-  - Google may be forced to spin off parts of its ad business.
-  - This could significantly alter how ads work online and increase competition.
-  - The ruling sets a precedent for other antitrust cases against big tech companies.
+### 6.1  Luxury Bunkers
+- Billionaires are building elaborate underground bunkers and tunnels connected to their homes.
+- These bunkers include amenities like gyms, home theaters, and greenhouses.
+- Some bunkers incorporate security features such as secret passages and shooting ranges.
 
 
-## 7. China's Proxy Wars in Yemen and Ukraine
+### 6.2  Market Growth and Demand
+- The market for doomsday bunkers is estimated to exceed $1 billion by 2030.
+- There is growing demand for both luxury and more affordable panic rooms.
+-  Various factors, such as pandemics and geopolitical instability, are driving the market.
+
+
+### 6.3 Notable Individuals Investing in Bunkers
+- Individuals such as Mark Zuckerberg, Peter Thiel, Bill Gates, Kim Kardashian, and Tom Cruise have either built or are investing in doomsday shelters and bunkers.
+- These bunkers are built to withstand various threats, and include advanced features like air filtration and water purification systems.
+-  The construction of these bunkers showcases the willingness of individuals with significant wealth to invest in securing their future.
+
+
+## 7. International News Briefs
 
 ### 7.0 Intro to Topic
-  - The US accuses China of supporting Houthi rebels in Yemen and providing weapons to Russia in Ukraine.
-  - China denies these allegations, claiming neutrality and commitment to peace.
-  - This highlights China's alleged use of proxy warfare to advance its geopolitical interests.
+-  A collection of shorter news items from around the world.
 
-### 7.1 China's Alleged Support for Houthi Rebels
-  - The US alleges that a Chinese company provides the Houthis with real-time intelligence on US warships.
-  - This intelligence allows the Houthis to launch more accurate attacks.
-  - China's actions are seen as strategic disruption, impacting Western trade through the Red Sea.
+### 7.1  El Salvador's President and US Immigration
+- President Trump hosted the president of El Salvador, referring to him as a key US ally.
+- The US is sending immigrants to a notorious Salvadoran prison.
+- Trump claims the deportees are gang members, but some have been mistakenly deported.
 
-### 7.2 China's Alleged Support for Russia in Ukraine
-  - Ukrainian President Zelenskyy alleges that China supplies weapons and artillery to Russia.
-  - He also claims Chinese nationals are involved in weapons production in Russia.
-  - China dismisses these accusations, maintaining its stance of neutrality.
+### 7.2  Indian Fugitive Arrested in Belgium
+-  Indian diamond merchant Mehul Choksi was arrested in Belgium.
+- He fled India in 2018 and is accused of defrauding the Punjab National Bank.
+-  India has requested his extradition.
 
+### 7.3  Gabon's Presidential Election
+-  Gabon's opposition leader won the presidential election with 90% of the vote.
+- He ended decades of rule by the Bongo family.
+- He promised to return Gabon to democratic rule.
 
-## 8. Addressing Hinduphobia in Scotland and Other Western Nations
-
-### 8.0 Intro to Topic
-  - A motion in the Scottish Parliament aims to recognize and address Hinduphobia.
-  - This is the first such motion in Europe, highlighting a growing awareness of anti-Hindu sentiment.
-  - Similar concerns about Hinduphobia have been raised in other Western countries.
-
-### 8.1 Scotland's Motion to Tackle Hinduphobia
-  - The Scottish Parliament tabled a motion to recognize and tackle Hinduphobia.
-  - The motion calls for education and dialogue to increase understanding of Hinduism.
-  - It highlights instances of vandalism, discrimination, and bias against Hindus in Scotland.
-
-### 8.2 Hinduphobia in Other Western Nations
-  - Reports of anti-Hindu bias and hate crimes have increased in the UK, Canada, Australia, and the US.
-  - Hindu temples have been vandalized, and Hindus have faced discrimination in various settings.
-  - Some jurisdictions are beginning to introduce legislation to address Hinduphobia.
+### 7.4  Maldives' Smoking Ban
+- The Maldives is planning to make it illegal for anyone born after January 2007 to buy cigarettes.
+- This aims to effectively prevent future generations from smoking.
 
 
-## 9. US-Iran Nuclear Deal Negotiations
+### 7.5  Katy Perry's Space Flight
+- Pop star Katy Perry completed an all-woman space flight with Blue Origin.
+- It was the first all-woman space crew since 1963.
+- The journey lasted approximately 11 minutes.
 
-### 9.0 Intro to Topic
-  - Renewed negotiations between the US and Iran aim to revive the 2015 nuclear deal (JCPOA).
-  - The talks focus on Iran's uranium enrichment program and the verification process.
-  - A potential deal could significantly impact the Middle East and global oil markets.
+### 7.6 Pakistan Cricket League
+-  Pakistan's cricket league began on Friday.
+- James Vince, an English batter, received a hairdryer as a gift from his franchise after a match.
 
-### 9.1 Key Issues and Positions
-  - The US insists on Iran's inability to acquire nuclear weapons.
-  - Iran demands the right to enrich uranium, considering it a matter of sovereignty.
-  - The talks are mediated by Oman, with Russia and Saudi Arabia also involved.
-
-### 9.2 Proposed Three-Stage Deal and Implications
-  - A potential three-stage deal involves phased sanctions relief in exchange for Iran scaling back uranium enrichment.
-  - The deal's success is uncertain, with potential repercussions for regional stability and oil prices.
-  - Israel's desire to attack Iranian nuclear facilities was reportedly blocked by Trump to pursue the deal.
-
-
-## 10. The Complexity of English Spelling
-
-### 10.0 Intro to Topic
-  - The complexity of English spelling is examined, highlighting its irregularity and impact on language acquisition.
-  - Studies show that English takes longer to learn than many other European languages due to its inconsistent spelling.
-  - Attempts to simplify English spelling have been made throughout history but have met with resistance.
-
-### 10.1 Historical Attempts at Simplification
-  - Benjamin Franklin and Noah Webster proposed various spelling reforms, but they weren't widely adopted.
-  - President Theodore Roosevelt's attempt at simplified spelling faced strong backlash.
-  - The movement for simplification is currently experiencing a shift due to internet influence and Gen Z's language use.
-
-
-## 11. UNESCO Honors Bhagavad Gita and Natya Shastra on World Heritage Day
-
-### 11.0 Intro to Topic
-  - UNESCO added the Bhagavad Gita and Natya Shastra to its "Memory of the World" register on World Heritage Day.
-  - These ancient Indian texts are significant contributions to philosophy, literature, and performing arts.
-  - This highlights India's rich cultural heritage and its importance in global history.
-
-### 11.1 Recognition of the Bhagavad Gita and Natya Shastra
-  - The Bhagavad Gita, a philosophical text from the Mahabharata, is recognized for its timeless relevance.
-  - The Natya Shastra, a comprehensive treatise on performing arts, is celebrated for its influence on various art forms.
-  - This addition brings India's total inscriptions on the register to 14.
-
-### 11.2 India's Rich Heritage and its Preservation
-  - India possesses a vast collection of ancient manuscripts, highlighting its long history of knowledge creation.
-  - Prime Minister Modi celebrated this recognition of India's cultural heritage.
-  - The news serves as a reminder of the importance of preserving India's cultural heritage and languages.
-
-
-## 12. Donald Trump's Geographical Misconceptions
-
-### 12.0 Intro to Topic
-  - Donald Trump's comments reveal his lack of geographical knowledge, highlighting his misconceptions about certain countries and regions.
-  -  His incorrect assertions about the Congo and other locations underscore the need for informed public discourse.
-  -  The instances are not isolated but showcase recurring instances of geographical inaccuracies in his public addresses.
-
-### 12.1 Incorrect Statements About the Congo and Other Locations
-  - Trump expresses unfamiliarity with the Congo, even though he mentions it as a source of immigration.
-  - He also makes inaccurate statements about other countries, exhibiting a lack of geographical knowledge.
-  - His remarks highlight a concerning lack of awareness regarding global geography in his discussions.
-
+### 7.7 Vantage Shots: News in Brief
+- Hundreds celebrated Palm Sunday in Jerusalem.
+- Water fights took place in Bangkok during the Songkran festival.
+- A rare blue-gold colored diamond was expected to fetch around $50 million at auction.
+-  The Soviet Union's withdrawal from Afghanistan in 1988 was noted.

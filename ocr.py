@@ -15,11 +15,11 @@ def set_list():
     src = Path(r'data\input\imgs')
     fallback_img = Path(r"data\fallback\fallback.jpg")
     
-    # def extract_number(path):
-    #     match = re.search(r'(\d+)',path.name)
-    #     return int(match.group()) if match else -1
+    def extract_number(path):
+        match = re.search(r'(\d+)',path.name)
+        return int(match.group()) if match else -1
                 
-    for filename in src.glob('*.*'):        
+    for filename in sorted(src.glob('*.*'), key=extract_number):        
         if Path(filename).is_dir():
             continue
         
@@ -37,7 +37,7 @@ def thick_font(image):
     image = cv2.bitwise_not(image)
     return(image)
 
-def generate(path, idx):
+def generate_text(path, idx):
     img = Image.open(path)
     ocr_result = pytesseract.image_to_string(img)
     print(f"Generated result for img{idx}.") 
@@ -56,12 +56,12 @@ def generate(path, idx):
 #         temp = Path("temp/temp.jpg")
 #         generate(temp, idx)
 
-def inverted(img,idx):          
-    inverted_image = cv2.bitwise_not(img)
-    inverted_image = thick_font(inverted_image)
-    cv2.imwrite("temp/temp.jpg", inverted_image)
-    temp = Path("temp/temp.jpg")
-    generate(temp, idx)
+# def inverted(img,idx):          
+#     inverted_image = cv2.bitwise_not(img)
+#     inverted_image = thick_font(inverted_image)
+#     cv2.imwrite("temp/temp.jpg", inverted_image)
+#     temp = Path("temp/temp.jpg")
+#     generate_text(temp, idx)
     
 # def normal():
 #     for idx,path in enumerate(img_path_list):
@@ -71,11 +71,11 @@ def inverted(img,idx):
 #         temp = Path("temp/temp.jpg")
 #         generate(temp, idx)
 
-def normal(img,idx):       
-    normal = thick_font(img)
-    cv2.imwrite("temp/temp.jpg", normal)
-    temp = Path("temp/temp.jpg")
-    generate(temp, idx)
+# def normal(img,idx):       
+#     normal = thick_font(img)
+#     cv2.imwrite("temp/temp.jpg", normal)
+#     temp = Path("temp/temp.jpg")
+#     generate_text(temp, idx)
 
 def is_inverted(img):
     gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
@@ -87,13 +87,22 @@ def process():
         img = cv2.imread(str(path))
         
         if is_inverted(img):
-            inverted(img,idx)
+            inverted_image = cv2.bitwise_not(img)
+            inverted_image = thick_font(inverted_image)
+            cv2.imwrite("temp/temp.jpg", inverted_image)
+            temp = Path("temp/temp.jpg")
+            generate_text(temp, idx)
+            # inverted(img,idx)
         else:
-            normal(img)
+            normal = thick_font(img)
+            cv2.imwrite("temp/temp.jpg", normal)
+            temp = Path("temp/temp.jpg")
+            generate_text(temp, idx)
+            # normal(img,idx)
     
 
-if __name__ == '__main__':
-    print("Enter the mode: ")
+def runner():
+    print("Book source: ")
     print("1) PDF \t2) Image (batch) \n")
     mode = int(input())
     open("data/result.txt", "w").close()
@@ -110,8 +119,8 @@ if __name__ == '__main__':
             set_list()
             process()
     
-    # set_list()
-    
+# [ ] MAKE A MAIN FILE FOR OCR AND TRANSCRIPT
+
     
     
     

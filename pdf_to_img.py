@@ -18,7 +18,7 @@ def convert_to_img(path):
     
     for i, page in enumerate(images):
         img_name = f"img_{i+1}.jpg"
-        pix = page.get_pixmap()
+        pix = page.get_pixmap(dpi=200)
         pix.save(output_path/img_name)
         print(f"Convesion : Page {i+1} done")
     print("\n\nConversion successfull")    
