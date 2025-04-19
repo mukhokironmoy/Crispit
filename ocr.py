@@ -8,7 +8,7 @@ img_path_list = []
 def set_list():
     img_path = []
     i=0
-    src = Path(r'data\imgs')
+    src = Path(r'data\input\imgs')
     fallback_img = Path(r"data\fallback\fallback.jpg")  
                 
     for filename in src.glob('*.*'):        

@@ -24,4 +24,4 @@ def convert(date):
     </html>
     """
 
-    HTML(string=html_text).write_pdf(f"data/{date} - News Bulletin.pdf")
+    HTML(string=html_text).write_pdf(f"data/output/{date} - News Bulletin.pdf")
