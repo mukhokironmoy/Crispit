@@ -1,0 +1,30 @@
+You are an expert at extracting information from documents. I will provide you with a PDF document, and I need you to extract the page numbers for the beginning and end of each chapter.
+
+Pay close attention to the actual page numbers of the PDF, not any printed page numbers that might be in the document.
+
+The page numbers should be extracted so that:
+
+-   The start page of a chapter is the first page where the chapter content visibly begins (e.g., where the chapter title is displayed), and
+-   The end page is the last page where the main chapter content concludes (before any review questions, problems, or appendices specific to that chapter).
+-   For chapter N, the start page should be the same as the end page of chapter N-1 + 1.  This rule does not apply to chapter 1.
+
+Provide the output in JSON format, with each chapter's data as a separate object in an array. Each object must have the following keys:  \"name\" (chapter title as it appears in the document) , \"start_page\" (integer, the PDF page number where the chapter starts), and \"end\_page\" (integer, the PDF page number where the chapter ends).
+
+Here is the format I want you to follow:
+
+
+[
+  {
+    "name": "Chapter 1 : <name of chapter>",
+    "start_page": <start_page_number>,
+    "end_page": <end_page_number>
+  },
+  {
+    "name": "Chapter 2 : <name of chapter>",
+    "start_page": <start_page_number>,
+    "end_page": <end_page_number>
+  },
+  ...
+]
+
+Give the output in plaintext. Dont put it in a codeblock. Give the result in chat itself. Dont put it in a codeblocl

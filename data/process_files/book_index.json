@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Chapter 1 : Information and Network Security Concepts",
+    "start_page": 22,
+    "end_page": 43
+  },
+  {
+    "name": "Chapter 2 : Introduction to Number Theory",
+    "start_page": 45,
+    "end_page": 82
+  },
+  {
+    "name": "Chapter 3 : Classical Encryption Techniques",
+    "start_page": 84,
+    "end_page": 112
+  },
+  {
+    "name": "Chapter 4 : Block Ciphers and the Data Encryption Standard",
+    "start_page": 113,
+    "end_page": 135
+  },
+  {
+    "name": "Chapter 5 : Finite Fields",
+    "start_page": 136,
+    "end_page": 165
+  },
+  {
+    "name": "Chapter 6 : Advanced Encryption Standard",
+    "start_page": 166,
+    "end_page": 200
+  },
+  {
+    "name": "Chapter 7 : Block Cipher Operation",
+    "start_page": 201,
+    "end_page": 244
+  },
+  {
+    "name": "Chapter 8 : Random Bit Generation and Stream Ciphers",
+    "start_page": 244,
+    "end_page": 284
+  },
+  {
+    "name": "Chapter 9 : Public-Key Cryptography and RSA",
+    "start_page": 285,
+    "end_page": 313
+  },
+  {
+    "name": "Chapter 10 : Other Public-Key Cryptosystems",
+    "start_page": 314,
+    "end_page": 336
+  },
+  {
+    "name": "Chapter 11 : Cryptographic Hash Functions",
+    "start_page": 337,
+    "end_page": 378
+  },
+  {
+    "name": "Chapter 12 : Message Authentication Codes",
+    "start_page": 379,
+    "end_page": 416
+  },
+  {
+    "name": "Chapter 13 : Digital Signatures",
+    "start_page": 417,
+    "end_page": 438
+  },
+  {
+    "name": "Chapter 14 : Lightweight Cryptography and Post-Quantum Cryptography",
+    "start_page": 439,
+    "end_page": 473
+  },
+  {
+    "name": "Chapter 15 : Cryptographic Key Management and Distribution",
+    "start_page": 474,
+    "end_page": 500
+  },
+  {
+    "name": "Chapter 16 : User Authentication",
+    "start_page": 501,
+    "end_page": 532
+  },
+  {
+    "name": "Chapter 17 : Transport-Level Security",
+    "start_page": 533,
+    "end_page": 566
+  },
+  {
+    "name": "Chapter 18 : Wireless Network Security",
+    "start_page": 567,
+    "end_page": 597
+  },
+  {
+    "name": "Chapter 19 : Electronic Mail Security",
+    "start_page": 598,
+    "end_page": 640
+  },
+  {
+    "name": "Chapter 20 : IP Security",
+    "start_page": 641,
+    "end_page": 669
+  },
+  {
+    "name": "Chapter 21 : Network Endpoint Security",
+    "start_page": 670,
+    "end_page": 698
+  },
+  {
+    "name": "Chapter 22 : Cloud Security",
+    "start_page": 699,
+    "end_page": 725
+  },
+  {
+    "name": "Chapter 23 : Internet of Things (IoT) Security",
+    "start_page": 726,
+    "end_page": 744
+  }
+]

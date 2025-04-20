@@ -1,6 +1,6 @@
 from youtube_transcript_api import YouTubeTranscriptApi as scriptapi
 from youtube_transcript_api.formatters import TextFormatter as format
-import summarise
+import gemini_calls
 from pytube import YouTube
 
 def get_video_id(url):
@@ -33,12 +33,12 @@ def transcript(url, date):
         lines = [entry['text'] for entry in transcript_data]
         formatted_transcript = "\n".join(lines)
         
-        open("data/transcript.txt", "w").close()  
+        open(r"data\process_files\news_transcript.txt", "w").close()  
         
-        with open("data/transcript.txt", 'a', encoding='utf-8') as f:
+        with open(r"data\process_files\news_transcript.txt", 'a', encoding='utf-8') as f:
                 f.write(date)      
         
-        with open("data/transcript.txt", 'a', encoding='utf-8') as f:
+        with open(r"data\process_files\news_transcript.txt", 'a', encoding='utf-8') as f:
                 f.write("\n\n"+formatted_transcript)
 
         print(f"Transcript saved.")
@@ -59,4 +59,4 @@ def runner():
     video_url = input("Paste the YouTube video URL: ")
     date=str(get_date(video_url))
     transcript(video_url,date)
-    summarise.news(date)
+    gemini_calls.news_summary(date)
