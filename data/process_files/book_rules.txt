@@ -1,0 +1,92 @@
+Use the following instructions to generate clean, well-organized, and complete notes based on a txt file that contains the information of a document. The goal is to extract **every topic covered** and break them down using a clear hierarchical structure with headings, subheadings, and bullet points.
+
+General Formatting Rules:
+
+0) Flow of the notes:
+One of the most important aspects of the notes is the flow of concepts and topics of the notes.
+It should feel like each topic flows into the next, each subtopic shouold flow into the next and each point/subpoint should flow into the next.
+If there exists a point that seems important yet complicated then the point should contain the line verbatum and the subpoints should explain them in easy to digest points.
+Make sure no details are lost out in the process of simplifying the language. Completeness is important.
+
+1)Index at the Top:
+Add a section titled: `## Index of Topics Covered in the Notes`.  
+List all main topics mentioned in the document.  
+Number each topic clearly (e.g., 1, 2, 3, ...).  
+Each item should match the main heading sections below.
+Use numbered bullets in markdown language for this.
+
+2)Main Topics as Headings
+Each main topic must be formatted as a level-two heading: `##`.  
+Headings must be short, clear, and informative 
+
+3)Subheadings for Subtopics
+Use a level-three headings (`###`) under each main topic to give a short contextual intro labeled as `###1.0 Intro to Topic` `###2.0 Intro to Topic` etc.
+This intro should contain a few points which can give context to the reader about what the current heading is about.
+After that, subtopics should be labeled using numbered decimal format like `###1.1`, `###1.2`, `###2.1`, etc 
+
+4)Subtopic Format
+Each subtopic should used unordered lists (bullets) as its points with an indent of 2 spaces
+
+###1.1 Subtopic 1
+  - point1
+  - point2
+  - point3
+
+5)Language and Style
+Use neutral, objective, and concise language.  
+Avoid complex sentences and jargon.  
+Ensure every bullet clearly communicates a single fact or idea.
+Maintain uniform spacing.
+The output should be in markdown syntax
+
+6)Completeness
+Cover ALL topics and subtopics mentioned in the transcript.  
+DO NOT OMMIT any events, names, or issues—even minor ones.  
+Maintain chronological or logical flow where applicable.
+
+7)Title of the document
+The name of the document will be provided below
+The title should be in the format of:
+#Crsipit - <name of document>
+Make sure not to use any illegal characters in the title as this title will be used as the name of a pdf which has to be saved. So avoid :,/ etc.
+
+Example:
+
+# Crispit : PAKISTAN’S STRATEGIC CULTURE Implications for How Pakistan Perceives and Counters Threats
+
+## Index of Topics Covered in the Notes
+1.  Pakistan's Strategic Culture
+2.  The Four Key Features of the Pakistan Army's Strategic Culture
+3.  The Belief That Afghanistan Is a Source of Instability
+4.  The Belief That India Is Opposed to the Two-Nation Theory
+5.  The Belief That India Is a Hegemon That Must Be Resisted
+
+## 1. Pakistan's Strategic Culture
+### 1.0 Intro to Pakistan's Strategic Culture
+    - Pakistan is a territorially revisionist state, seeking control over Kashmir and resisting India's rise.    
+    - This revisionism has led to wars with India and a proxy war in Kashmir, incurring high costs for Pakistan.    
+    - Pakistan's strategic culture, heavily influenced by the Pakistan Army, explains its persistent revisionist policies.    
+    - The Pakistan Army's strategic culture is characterized by key beliefs about insecurity, Afghanistan, and India's intentions.  
+      
+### 1.1 Understanding Strategic Culture
+    - Strategic culture explains states' national security objectives and actions.    
+    - It is defined as an integrated system of symbols that shape long-lasting strategic preferences.    
+    - This system includes basic assumptions about the strategic environment and operational understandings of threat management.    
+    - Strategic culture limits the options available to a state or institution.
+    
+        
+## 2. The Four Key Features of the Pakistan Army's Strategic Culture
+### 2.0 Intro to the Pakistan Army's Strategic Culture
+    - The Pakistan Army's strategic culture is shaped by four enduring themes.    
+    - These themes include the belief that Pakistan is an insecure and incomplete state and that Afghanistan is a source of instability.    
+    - Additionally, there are beliefs that India seeks to dominate or destroy Pakistan and that India is a regional hegemon to be resisted.    
+
+### 2.1 Belief in Pakistan as an Insecure and Incomplete State
+    - The Pakistan Army views Pakistan as an insecure and incomplete state due to the unfair partition process in 1947.    
+    - Pakistan did not inherit an equal share of the Raj's institutions and had to build its governing apparatus while facing a massive humanitarian crisis.    
+    - The army believes that the British deliberately manipulated the partition to favor India, leading to insecure borders and resource deficits for Pakistan.    
+    - This perception fuels Pakistan's revisionist claims, particularly regarding Kashmir, based on the "two-nation theory."    
+
+
+
+

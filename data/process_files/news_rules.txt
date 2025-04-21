@@ -5,7 +5,7 @@ General Formatting Rules:
 0)Title of the document
 The transcript begins with a date. Use that date in the title
 Begin with a title as "<date> : News Bulletin" as a level 1 heading with '#' like
-#12-10-2025 : News Bulletin
+#Crispit : 12-10-2025 News Bulletin
 
 1)Index at the Top:
 Add a section titled: `## Index of Topics Covered in the Notes`.  

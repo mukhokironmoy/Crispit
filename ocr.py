@@ -4,9 +4,9 @@ from PIL import Image
 import pytesseract
 from glob import glob
 import numpy as np
-from pdf_to_img import convert_to_img
 import re
 import pdf_tools
+import gemini_calls
 
 img_path_list = []
 
@@ -88,14 +88,15 @@ def runner():
         case 2:
             print("Enter the path for the pdf: ")
             pdf_path = input()
-            convert_to_img(pdf_path)
+            pdf_tools.convert_to_img(pdf_path)
             set_list()
             process()
+            gemini_calls.book_summary()
+            
                         
         case 3:
             set_list()
             process()
-    
 
 
   # def inverted():

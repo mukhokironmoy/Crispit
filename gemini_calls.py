@@ -8,21 +8,26 @@ import pdf_tools
 import json
 
 def news_summary(date):
+  #load api key
   load_dotenv()
-  genai.configure(api_key=os.getenv('api_key'))  # ✅ Correct way
-
+  genai.configure(api_key=os.getenv('api_key'))  
+  
+  #load transcript 
   news_transcript_path = Path(r'data\process_files\news_transcript.txt')
+  
+  #load and setup prompt
   news_rule_path = Path(r"data\process_files\news_rules.txt")
-
   with open(news_rule_path, 'r', encoding='utf-8') as f:
       rules = f.read()
 
   prompt = rules
 
-  print("Generating notes....")
+  print("Generating notes for news....")
 
+  #setup model
   model = genai.GenerativeModel(model_name="gemini-1.5-flash")  # ✅
 
+  #generate response
   response = model.generate_content([
     news_transcript_path.read_text(encoding='utf-8'),
     prompt
@@ -30,16 +35,18 @@ def news_summary(date):
 
   print("Generated")
 
+  #load output file
   news_mdfile_path = Path(r"data\process_files\news_result.md")
   open(news_mdfile_path, "w").close()
 
   print("Saving notes...")
 
+  #save response onto output file
   with open(news_mdfile_path, 'w', encoding='utf-8') as f:
       f.write(response.text)
 
   print("Saved")
-  pdf_tools.md_to_pdf(date)
+  pdf_tools.md_to_pdf(date,r"data\process_files\news_result.md","News Bulletin")
 
 
 def get_index(path):
@@ -68,6 +75,7 @@ def get_index(path):
 
   print("Generated.")
 
+  #format response
   raw_output = response.text
   start = raw_output.find('[')
   end = raw_output.find(']')
@@ -75,13 +83,67 @@ def get_index(path):
   if start != -1 and end != -1:
       cleaned = raw_output[start:end+1]
 
+  #load output file
   book_index_path = Path(r"data\process_files\book_index.json")
   open(book_index_path, "w").close()
 
+  #save response onto output file
   with open(book_index_path, 'w', encoding='utf-8') as f:
       f.write(cleaned)
 
   print("Saved book index onto book_index.json")
+  
+
+def book_summary():
+  #load api key
+  load_dotenv()
+  genai.configure(api_key=os.getenv('api_key'))
+  
+  #load document
+  document_path = Path(r"data\process_files\ocr_out.txt") 
+  
+  #load prompt
+  book_rule_path = Path(r"data\process_files\book_rules.txt")
+  with open(book_rule_path, 'r', encoding='utf-8') as f:
+      rules = f.read()
+  
+  prompt = rules
+
+  print("Generating notes for book....")
+
+  #setup model
+  model = genai.GenerativeModel(model_name="gemini-1.5-flash")  # ✅
+
+  #generate response
+  response = model.generate_content([
+    document_path.read_text(encoding='utf-8'),
+    prompt
+  ])
+
+  print("Generated")
+  
+  #load output file
+  book_mdfile_path = Path(r"data\process_files\book_result.md")
+  open(book_mdfile_path, "w").close()
+
+  print("Saving notes...")
+
+  #save response onto output file
+  with open(book_mdfile_path, 'w', encoding='utf-8') as f:
+    f.write(response.text)
+      
+  with open(book_mdfile_path, 'r', encoding='utf-8') as f:
+    title = f.readline().strip()
+    title = title.lstrip('# ')
+    date = ''
+    
+
+  print("Saved")
+  pdf_tools.md_to_pdf(date,r"data\process_files\book_result.md",title)
+  
+  
+# book_summary()
+  
   
 # def news_summary(date):
 #   load_dotenv()
