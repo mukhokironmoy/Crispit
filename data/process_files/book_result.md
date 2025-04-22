@@ -1,163 +1,133 @@
 # Crispit - PAKISTAN’S STRATEGIC CULTURE Implications for How Pakistan Perceives and Counters Threats
 
 ## Index of Topics Covered in the Notes
-1. Pakistan's Revisionist Goals and Strategic Culture
-2. The Pakistan Army's Strategic Culture
+1. Pakistan's Revisionist Aims and Strategic Culture
+2. The Strategic Culture of the Pakistan Army
 3. Four Key Features of the Pakistan Army's Strategic Culture
 4. Operationalizing and Managing Threats
-5. Implications and Policy Recommendations
+5. Conclusions and Policy Implications
 
 
-## 1. Pakistan's Revisionist Goals and Strategic Culture
-### 1.0 Intro to Pakistan's Revisionist Goals and Strategic Culture
-  - Pakistan's foreign policy is driven by revisionist aims: securing control over disputed Kashmir territory and hindering India's global rise.
-  - This has resulted in costly wars and a prolonged proxy war in Kashmir.
-  - Despite the high costs, these revisionist goals persist, driven by the Pakistan Army's strategic culture.
-  - This report focuses on the Pakistan Army's role due to its dominance in national security and foreign policy decision-making.
+## 1. Pakistan's Revisionist Aims and Strategic Culture
+### 1.0 Intro to Pakistan's Revisionist Aims and Strategic Culture
+  - Pakistan's foreign policy is driven by revisionist goals: securing control over disputed Kashmir territory and hindering India's global rise.
+  - This has led to multiple wars with India and a persistent proxy war in Kashmir, resulting in significant costs.
+  - The Pakistan Army's strategic culture significantly influences these policies.
+  - Understanding this culture is crucial for managing the threat posed by Pakistan.
 
 ### 1.1 Pakistan's Revisionism
-  - Pakistan's revisionism includes territorial claims (Kashmir) and a desire to counter India's growing international influence.
-  - This has led to multiple wars with India (1947-48, 1965, 1999) and a continuous proxy war in Kashmir (starting in 1989).
-  - These actions have imposed significant economic and social costs on Pakistan.
-  - Despite evidence of failure, Pakistan continues its revisionist policies, defying rational strategic calculations.
-
-### 1.2 Strategic Culture as an Explanation
-  - The Pakistan Army's strategic culture plays a significant role in explaining Pakistan's persistent revisionism.
-  - Strategic culture shapes a state's security objectives and the means chosen to achieve them.
-  - It involves deeply rooted beliefs about the strategic environment and effective strategies.
-  - This report analyzes the Pakistan Army's strategic culture to understand its impact on Pakistan's actions.
+  - Pakistan seeks to control all of Kashmir despite not having the legal right to it under the 1947 partition agreement.
+  - Pakistan aims to impede India's rise in the international system.
+  - This has led to wars in 1947-48, 1965, and 1999, and a prolonged proxy war in Kashmir.
+  - These actions have imposed high economic and social costs on Pakistan, yet the goals persist.
+  - Game theory suggests Pakistan should seek accommodation with India to minimize future costs, but this hasn't occurred.
+  - The Pakistan Army's dominant role in decision-making explains this persistent revisionism.
 
 
-
-## 2. The Pakistan Army's Strategic Culture
+## 2. The Strategic Culture of the Pakistan Army
 ### 2.0 Intro to the Pakistan Army's Strategic Culture
-  - The Pakistan Army's strategic culture significantly shapes Pakistan's security perceptions and actions.
-  - It influences both foreign and domestic policies related to national security.
-  - The army's views are often presented as the nation's strategic outlook, given its extensive influence.
-  - Analysis focuses on the army's published works and official statements to understand their strategic culture.
+  - The Pakistan Army's strategic culture shapes Pakistan's national security and foreign policy.
+  - The army uses ideological and civilizational narratives to frame threats.
+  - It views its conflict with India as a clash between "Muslim Pakistan" and "Hindu India".
+  - The army's strategic culture includes four key beliefs influencing its actions.
 
-### 2.1 Defining Strategic Culture
-  - Strategic culture explains a state's security goals and actions through a system of symbols (language, analogies, metaphors).
-  - These symbols shape lasting preferences regarding military force in international affairs.
-  - Key components include core beliefs about the strategic environment and preferred methods for managing threats.
-  - Understanding this culture helps explain why Pakistan chooses specific actions over alternatives.
+
+### 2.1 Strategic Culture Defined
+  - Strategic culture explains a state's security objectives and choices.
+  - It's a system of symbols (language, metaphors, etc.) creating enduring strategic preferences.
+  - This system includes assumptions about the threat environment and preferred means of response.
+  - Analyzing strategic culture helps understand limitations on a state's choices.
+
 
 
 ## 3. Four Key Features of the Pakistan Army's Strategic Culture
-### 3.0 Intro to Four Key Features of the Pakistan Army's Strategic Culture
-  - Four core beliefs underpin the Pakistan Army's strategic culture.
-  - These are deeply ingrained and influence the army's approach to threats and strategic goals.
-  - These beliefs are consistently found in official military publications and statements.
-  - They shape Pakistan's actions towards India and Afghanistan.
+### 3.0 Intro to the Four Key Features
+  - Four central beliefs underpin the Pakistan Army's strategic culture:
+    - Pakistan's inherent insecurity and incompleteness.
+    - Afghanistan as a source of instability.
+    - India's opposition to Pakistan's existence and the "two-nation theory".
+    - India as a regional hegemon that must be resisted.
 
 
-### 3.1 Insecurity and Incompleteness of Pakistan
-  - The army views Pakistan as insecure and incomplete due to the 1947 partition.
-  - This perception stems from unequal division of resources and institutions from British India.
-  - It believes the British deliberately disadvantaged Pakistan, creating insecure borders.
-  - This fuels Pakistan's revisionist goals, particularly concerning Kashmir and the "two-nation theory."
+### 3.1 Belief in Pakistan as an Insecure and Incomplete State
+  - The army perceives Pakistan as insecure and incomplete due to the 1947 partition.
+  - It believes Pakistan received fewer resources and institutions compared to India.
+  - The army alleges British manipulation during partition, leading to insecure borders and resource deficiencies.
+  - This perception reinforces Pakistan's claim to Kashmir based on the "two-nation theory."
 
-### 3.2 Afghanistan as a Source of Instability
-  - The army considers Afghanistan a source of instability, often in collusion with India.
-  - This perception stems from historical grievances, including Afghan territorial claims and support for separatist movements.
-  - Pakistan’s "strategic depth" policy aims to influence the Afghan government to be favorable to Pakistan and hostile to India.
-  - This includes using Pakistan's western border regions as a buffer zone.
+### 3.2 Belief That Afghanistan Is a Source of Instability
+  - The army sees Afghanistan as a source of instability, often in collusion with India.
+  - This perception dates back to Afghanistan's actions after Pakistan's independence.
+  - Afghanistan's rejection of the Durand Line, irredentist claims, and support for separatists fueled this view.
+  - The belief in Indo-Afghan collusion persists, contributing to Pakistan's strategic depth policy.
 
+### 3.3 Belief That India Is Opposed to the Two-Nation Theory and Seeks to Dominate or Destroy Pakistan
+  - The army believes India fundamentally opposes Pakistan's existence as a Muslim state.
+  - This view traces back to early leaders like Ayub Khan, who saw India's actions as pathological.
+  - India's victory in the 1971 war reinforced this belief.
+  - This continues to drive the army's narrative and actions.
 
-### 3.3 India's Opposition to Pakistan's Existence
-  - The army believes India is fundamentally opposed to Pakistan's existence as a Muslim state.
-  - This belief stems from India's rejection of the "two-nation theory" and past conflicts.
-  - The army views India as having hegemonic ambitions and seeking to undermine or destroy Pakistan.
-  - This shapes Pakistan's perception of India as an existential threat.
-
-### 3.4 India as a Hegemon to Be Resisted
-  - The army sees India as a regional hegemon aiming to dominate Pakistan and its neighbors.
-  - This belief is reflected in Pakistan's military publications and official statements.
-  - It underscores Pakistan's need to resist India’s influence and ambitions in the region.
-  - This fuels Pakistan's assertive foreign policy and military build-up.
+### 3.4 Belief That India Is a Hegemon That Must Be Resisted
+  - The army sees India as an aspiring regional hegemon threatening Pakistan and its neighbors.
+  - This view is reflected in Pakistani military publications, depicting India as a threat since independence.
+  -  This belief reinforces Pakistan's need to resist India's influence and maintain its independence.
 
 
 ## 4. Operationalizing and Managing Threats
 ### 4.0 Intro to Operationalizing and Managing Threats
-  - The Pakistan Army operationalizes its strategic beliefs through specific actions.
-  - It uses various tools to manage the perceived threats.
-  - The instruments include political Islam, asymmetric warfare, and nuclear deterrence.
-  - The effectiveness and cost of these tools are analyzed in the context of their strategic culture.
-
-### 4.1  Defending Ideological and Geographic Frontiers
-  - The army sees its role as defending both Pakistan's territory and its Islamic identity ("two-nation theory").
-  - It portrays conflicts with India as defensive jihads, justifying actions through religious narratives.
-  - The use of Islamic ideology aims to build national unity and support for the military’s actions.
-  - This strategy links the army's role directly to Pakistan's survival and its Islamic identity.
+  - The Pakistan Army employs various strategies to address the four core beliefs of its strategic culture.
+  - These strategies include the instrumentalization of Islam, asymmetric conflict, and developing external ties.
+  - Maintaining a forward or close border policy with Afghanistan is another key strategy.
+  - The use of proxy fighters under a nuclear umbrella remains a core element of the approach.
 
 
-### 4.2 Using Non-State Actors
-  - Pakistan has a long history of employing non-state actors, especially Islamist militants.
-  - These are used in proxy conflicts, particularly in Kashmir and Afghanistan.
-  - The nuclear umbrella provides a level of impunity for these actions.
-  - This strategy allows Pakistan to engage in low-intensity conflict with limited accountability.
+### 4.1 Operationalizing the Belief in Pakistan as an Insecure and Incomplete State
+  - The army aims to defend Pakistan's ideological and geographical frontiers.
+  - It seeks to complete the partition process by acquiring Kashmir.
+  - The "two-nation theory" remains a central ideological justification for these actions.
+  - Islam is instrumentalized to build national character, attract recruits, and justify the conflict with India.
+  - This ideology sustains popular support for endless conflict and the army's dominant role.
+
+### 4.2 Operationalizing the Belief That Afghanistan Is a Source of Instability
+  - The policy of "strategic depth" involves cultivating pro-Pakistan regimes in Afghanistan.
+  - This involves political influence rather than solely military presence.
+  - Pakistan uses Islamist groups in Afghanistan to counter Indian influence and maintain control.
+  -  This strategy dates back to the 1970s and has involved training and supporting various Islamist militant groups.
+
+### 4.3 Operationalizing the Belief That India Is Opposed to Pakistan's Existence and the Two-Nation Theory
+  - The army sustains public support for a perpetual civilizational war against India.
+  - It frames conflicts as defensive jihads, portraying India as an ideological and theological enemy.
+  -  This narrative justifies Pakistan's actions and reinforces the army's role in securing Pakistan's survival.
+
+### 4.4 Operationalizing the Belief That India Is a Hegemon That Must Be Resisted
+  - Pakistan uses proxy warfare and the nuclear umbrella to challenge India.
+  - This strategy is relatively inexpensive, offering plausible deniability.
+  - The nuclear arsenal is used to blackmail and deter actors, including the US, and gain international support.
+  -  The pursuit of battlefield nuclear weapons further complicates the situation and increases the risk of escalation.
 
 
-### 4.3 Pursuit of Strategic Depth in Afghanistan
-  - Pakistan's "strategic depth" policy aims to control the political landscape of Afghanistan.
-  - It involves supporting various groups (primarily Islamists) to counter Indian influence.
-  - This strategy uses political Islam and militancy to shape Afghan politics.
-  - The policy has contributed to instability in Afghanistan and wider regional consequences.
 
+## 5. Conclusions and Policy Implications
+### 5.0 Intro to Conclusions and Policy Implications
+  - The Pakistan Army's strategic culture is deeply entrenched and unlikely to change easily.
+  - Traditional US approaches of aid and assistance have failed to alter Pakistan's behavior.
+  -  A new approach is needed to dissuade Pakistan from using Islamist terrorism and to curb its nuclear ambitions.
 
-### 4.4 Battlefield Nuclear Weapons
-  - Pakistan’s development of tactical nuclear weapons aims to deter conflict with India.
-  - This strategy is built on maintaining a state of uncertainty and ambiguity (instability-instability paradox).
-  - The intent is to deter India by creating the fear of escalation to nuclear conflict.
-  - This exacerbates regional instability and increases the risks associated with nuclear proliferation.
+### 5.1 The Need for Compellence
+  - Pakistan lacks disincentives to use Islamist terrorism and pursue reckless nuclear technologies.
+  - The international community has not effectively held Pakistan accountable for its actions.
+  - A compellence strategy is needed to change Pakistan's cost-benefit calculus.
 
+### 5.2 Policy Recommendations
+  - The US should remove itself from Pakistan's nuclear coercion loop by holding it accountable for nuclear security and proliferation.
+  -  The US should cease providing positive incentives for Pakistan's support of militant groups.
+  -  The US should be willing to designate Pakistan as a state sponsor of terrorism and impose sanctions if necessary.
+  - The US should review all forms of bilateral and multilateral economic support to Pakistan.
+  -  The US should avoid language that legitimizes Pakistan’s claims on Kashmir in official statements.
+  - The US should consider officially supporting converting the Line of Control into the international border.
 
-## 5. Implications and Policy Recommendations
-### 5.0 Intro to Implications and Policy Recommendations
-  - The Pakistan Army's strategic culture creates significant challenges for international efforts to manage the threat from Pakistan.
-  - Traditional approaches of aid and engagement have proven largely ineffective.
-  - A new approach is needed to address Pakistan's behaviour, taking into account its deeply rooted beliefs and practices.
-  - Policy recommendations focus on compelling Pakistan to change its cost-benefit analysis on terrorism and nuclear proliferation.
-
-
-### 5.1 Addressing Pakistan's Nuclear Program
-  - The US should remove itself from Pakistan's nuclear coercion loop.
-  - Pakistan should be held solely responsible for nuclear security incidents, deterring reckless behavior.
-  - Stronger sanctions and countermeasures against the nuclear program are considered necessary.
-  - The US should threaten punitive action if Pakistan uses nuclear weapons first.
-
-
-### 5.2 Curbing Support for Militant Groups
-  - The US should stop reimbursing Pakistan for counter-terrorism efforts, pushing for a more independent approach.
-  - Providing only counter-terrorism and counterinsurgency training, without broader military support, can align assistance with genuine needs.
-  - Designating Pakistan as a state sponsor of terrorism, unless substantive steps are taken against militant groups, is a potential measure.
-  - A timeline of concrete actions against militant groups, including the eventual eradication of these groups, is vital.
-
-
-### 5.3 Using Negative Inducements
-  - Targeting individuals supporting terrorist groups through international prosecution, sanctions, and travel restrictions can be effective.
-  - UNSCR 1373 and 1267 can be utilized to target specific individuals and their financial networks.
-  - This requires international cooperation and could include diplomatic pressure on countries, such as China, that shield terrorists.
-  - Combining diplomatic pressure with sanctions and targeting individuals can curtail Pakistan's support for terrorism.
-
-
-### 5.4 Reviewing Economic and Multilateral Support
-  - The US should review bilateral economic support and pressure multilateral institutions to align funding with Pakistan’s cooperation.
-  - This leverages Pakistan's dependence on financial aid, aligning assistance with improved behavior.
-  - Reducing or ceasing this support could compel changes in Pakistani behaviour.
-  - This requires overcoming international reluctance to use punitive measures.
-
-
-### 5.5 Revising US Stance on Kashmir
-  - The US should avoid making statements that portray Kashmir as a disputed territory, stopping the unintended reward for terrorism.
-  - Omitting any references to Kashmir in official communication with Pakistan can deprive the country of this desired reward.
-  - Considering supporting the Line of Control as the international boundary, to reduce the disputed area, could help to mitigate the conflict.
-  -  A different diplomatic approach to Kashmir is needed, avoiding language that legitimizes Pakistani claims and rewards terrorism.
-
-
-### 5.6 Conclusion
-  - A fundamental shift in US policy towards Pakistan is necessary due to the enduring nature of the Pakistan Army's strategic culture.
-  - Continuing past approaches won't yield different outcomes, necessitating a more effective and comprehensive approach.
-  - New policies are needed to address Pakistan's deeply ingrained beliefs and incentives for destabilizing behavior.
-  - This requires strong leadership and a willingness to accept increased risks to achieve security outcomes.
+### 5.3  The Need for a New Approach
+  - Given the enduring nature of Pakistan's strategic culture, the US must abandon its past policies.
+  - A new approach is needed that involves stronger compellence and a willingness to accept greater risks.
+  - The status quo is unsustainable; new strategies are needed to manage Pakistan's revisionist actions and its nuclear program.
 

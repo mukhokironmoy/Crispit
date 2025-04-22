@@ -7,13 +7,15 @@ import numpy as np
 import re
 import pdf_tools
 import gemini_calls
+import shutil
 
 img_path_list = []
+    
 
-def set_list():
+def set_list(img_dir):
     img_path = []
     i=0
-    src = Path(r'data\input\imgs')
+    src = img_dir
     fallback_img = Path(r"data\fallback\fallback.jpg")
     
     def extract_number(path):
@@ -89,14 +91,18 @@ def runner():
             print("Enter the path for the pdf: ")
             pdf_path = input()
             pdf_tools.convert_to_img(pdf_path)
-            set_list()
+            img_path = Path(r'data\input\imgs')
+            set_list(img_path)
             process()
             gemini_calls.book_summary()
             
                         
         case 3:
-            set_list()
+            img_dir = input("Enter the path of the directory containing the images: ")
+            img_dir = Path(img_dir)            
+            set_list(img_dir)
             process()
+            gemini_calls.book_summary()
 
 
   # def inverted():
