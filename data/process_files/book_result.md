@@ -1,133 +1,150 @@
-# Crispit - PAKISTAN’S STRATEGIC CULTURE Implications for How Pakistan Perceives and Counters Threats
+# Crispit - Somnath Sharma's Last Stand
 
 ## Index of Topics Covered in the Notes
-1. Pakistan's Revisionist Aims and Strategic Culture
-2. The Strategic Culture of the Pakistan Army
-3. Four Key Features of the Pakistan Army's Strategic Culture
-4. Operationalizing and Managing Threats
-5. Conclusions and Policy Implications
+1.  Meeting with Lieutenant General (retd) Surindra Nath Sharma
+2.  Lt. Gen. Sharma's Recollections of his Brother
+3.  The Battle of Badgam
+4.  The Pakistani Plan
+5.  The Attack on D Company
+6.  Somnath Sharma's Actions and Leadership
+7.  The Final Moments and Aftermath
+8.  Somnath Sharma's Life and Legacy
 
 
-## 1. Pakistan's Revisionist Aims and Strategic Culture
-### 1.0 Intro to Pakistan's Revisionist Aims and Strategic Culture
-  - Pakistan's foreign policy is driven by revisionist goals: securing control over disputed Kashmir territory and hindering India's global rise.
-  - This has led to multiple wars with India and a persistent proxy war in Kashmir, resulting in significant costs.
-  - The Pakistan Army's strategic culture significantly influences these policies.
-  - Understanding this culture is crucial for managing the threat posed by Pakistan.
+## 1. Meeting with Lieutenant General (retd) Surindra Nath Sharma
+### 1.0 Intro to the Meeting
+  - The author arrives 15 minutes early for an interview with Lt. Gen. (retd) Surindra Nath Sharma, brother of Major Somnath Sharma.
+  - The interview takes place at Lt. Gen. Sharma's house in Defence Colony, New Delhi.
+  - Lt. Gen. Sharma is described as a remarkably fit 90-year-old with a British accent, delightful wit, and old-world courtesy.
 
-### 1.1 Pakistan's Revisionism
-  - Pakistan seeks to control all of Kashmir despite not having the legal right to it under the 1947 partition agreement.
-  - Pakistan aims to impede India's rise in the international system.
-  - This has led to wars in 1947-48, 1965, and 1999, and a prolonged proxy war in Kashmir.
-  - These actions have imposed high economic and social costs on Pakistan, yet the goals persist.
-  - Game theory suggests Pakistan should seek accommodation with India to minimize future costs, but this hasn't occurred.
-  - The Pakistan Army's dominant role in decision-making explains this persistent revisionism.
-
-
-## 2. The Strategic Culture of the Pakistan Army
-### 2.0 Intro to the Pakistan Army's Strategic Culture
-  - The Pakistan Army's strategic culture shapes Pakistan's national security and foreign policy.
-  - The army uses ideological and civilizational narratives to frame threats.
-  - It views its conflict with India as a clash between "Muslim Pakistan" and "Hindu India".
-  - The army's strategic culture includes four key beliefs influencing its actions.
-
-
-### 2.1 Strategic Culture Defined
-  - Strategic culture explains a state's security objectives and choices.
-  - It's a system of symbols (language, metaphors, etc.) creating enduring strategic preferences.
-  - This system includes assumptions about the threat environment and preferred means of response.
-  - Analyzing strategic culture helps understand limitations on a state's choices.
+### 1.1 The Interview
+  - Lt. Gen. Sharma displays an excellent memory, recalling names, dates, and events clearly.
+  - He recounts stories of his brother's bravery with pride and nostalgia.
+  - He shares anecdotes about his brother's childhood and a youthful infatuation, declining to provide details about the girl involved.
+  -  He recounts the Battle of Badgam lucidly and vividly.
 
 
 
-## 3. Four Key Features of the Pakistan Army's Strategic Culture
-### 3.0 Intro to the Four Key Features
-  - Four central beliefs underpin the Pakistan Army's strategic culture:
-    - Pakistan's inherent insecurity and incompleteness.
-    - Afghanistan as a source of instability.
-    - India's opposition to Pakistan's existence and the "two-nation theory".
-    - India as a regional hegemon that must be resisted.
+## 2. Lt. Gen. Sharma's Recollections of his Brother
+### 2.0 Intro to Lt. Gen Sharma's Recollections
+  - This section details Lt. Gen. Sharma's personal memories and insights into his brother, Major Somnath Sharma's life and personality.  The recollections are interwoven with the narrative of the Battle of Badgam.
+
+### 2.1 Childhood and Personality
+  -  Recounts Major Somnath Sharma's (referred to as 'Somi') childhood, including his tendency to organize neighborhood children in mock marches.
+  - Highlights Somi's preference for outdoor activities over academics.
+  - Describes the close bond and a deal of academic support between Somi and his brother, Tindy (Surindra Nath).
 
 
-### 3.1 Belief in Pakistan as an Insecure and Incomplete State
-  - The army perceives Pakistan as insecure and incomplete due to the 1947 partition.
-  - It believes Pakistan received fewer resources and institutions compared to India.
-  - The army alleges British manipulation during partition, leading to insecure borders and resource deficiencies.
-  - This perception reinforces Pakistan's claim to Kashmir based on the "two-nation theory."
-
-### 3.2 Belief That Afghanistan Is a Source of Instability
-  - The army sees Afghanistan as a source of instability, often in collusion with India.
-  - This perception dates back to Afghanistan's actions after Pakistan's independence.
-  - Afghanistan's rejection of the Durand Line, irredentist claims, and support for separatists fueled this view.
-  - The belief in Indo-Afghan collusion persists, contributing to Pakistan's strategic depth policy.
-
-### 3.3 Belief That India Is Opposed to the Two-Nation Theory and Seeks to Dominate or Destroy Pakistan
-  - The army believes India fundamentally opposes Pakistan's existence as a Muslim state.
-  - This view traces back to early leaders like Ayub Khan, who saw India's actions as pathological.
-  - India's victory in the 1971 war reinforced this belief.
-  - This continues to drive the army's narrative and actions.
-
-### 3.4 Belief That India Is a Hegemon That Must Be Resisted
-  - The army sees India as an aspiring regional hegemon threatening Pakistan and its neighbors.
-  - This view is reflected in Pakistani military publications, depicting India as a threat since independence.
-  -  This belief reinforces Pakistan's need to resist India's influence and maintain its independence.
+## 3. The Battle of Badgam
+### 3.0 Intro to the Battle of Badgam
+  - The Battle of Badgam, fought on November 3, 1947, in Jammu and Kashmir is the central focus of the narrative.
+  -  The battle involved Major Somnath Sharma and his company of the Indian Army against a larger force of Pakistani Pathans.
+  - The battle's significance lies in its crucial role in preventing the capture of the Srinagar airfield.
 
 
-## 4. Operationalizing and Managing Threats
-### 4.0 Intro to Operationalizing and Managing Threats
-  - The Pakistan Army employs various strategies to address the four core beliefs of its strategic culture.
-  - These strategies include the instrumentalization of Islam, asymmetric conflict, and developing external ties.
-  - Maintaining a forward or close border policy with Afghanistan is another key strategy.
-  - The use of proxy fighters under a nuclear umbrella remains a core element of the approach.
+### 3.1 Initial Deployment and Reconnaissance
+  - A fighting patrol, including A and D Companies of 4 Kumaon (under Somi) and one company of 1 Para Kumaon, was sent to Badgam based on intelligence reports of a large Pathan lashkar heading towards Srinagar.
+  - Companies of 4 Kumaon established positions on a hillock west of Badgam.
+  - 1 Para Kumaon searched the village and found it seemingly peaceful; villagers appeared scared but were going about their chores.
 
 
-### 4.1 Operationalizing the Belief in Pakistan as an Insecure and Incomplete State
-  - The army aims to defend Pakistan's ideological and geographical frontiers.
-  - It seeks to complete the partition process by acquiring Kashmir.
-  - The "two-nation theory" remains a central ideological justification for these actions.
-  - Islam is instrumentalized to build national character, attract recruits, and justify the conflict with India.
-  - This ideology sustains popular support for endless conflict and the army's dominant role.
+### 3.2 Withdrawal Orders and the Deception
+  - After 1 Para Kumaon reported back to Srinagar, Sharma was ordered to withdraw his companies.
+  - A Company completed its westward patrol and began returning to the airfield.
+  -  D Company was to remain in Badgam until late evening before withdrawing. This decision was supported by Brig. L. P. Sen.
+  - The Pathans, disguised as villagers, were actually waiting in a nala.
 
-### 4.2 Operationalizing the Belief That Afghanistan Is a Source of Instability
-  - The policy of "strategic depth" involves cultivating pro-Pakistan regimes in Afghanistan.
-  - This involves political influence rather than solely military presence.
-  - Pakistan uses Islamist groups in Afghanistan to counter Indian influence and maintain control.
-  -  This strategy dates back to the 1970s and has involved training and supporting various Islamist militant groups.
 
-### 4.3 Operationalizing the Belief That India Is Opposed to Pakistan's Existence and the Two-Nation Theory
-  - The army sustains public support for a perpetual civilizational war against India.
-  - It frames conflicts as defensive jihads, portraying India as an ideological and theological enemy.
-  -  This narrative justifies Pakistan's actions and reinforces the army's role in securing Pakistan's survival.
+## 4. The Pakistani Plan
+### 4.0 Intro to the Pakistani Plan
+  - This section details the strategic plan of the Pakistani forces involved in the Battle of Badgam.
+  - The plan involved deception, infiltration, and a surprise attack to capture the Srinagar airfield.
 
-### 4.4 Operationalizing the Belief That India Is a Hegemon That Must Be Resisted
-  - Pakistan uses proxy warfare and the nuclear umbrella to challenge India.
-  - This strategy is relatively inexpensive, offering plausible deniability.
-  - The nuclear arsenal is used to blackmail and deter actors, including the US, and gain international support.
-  -  The pursuit of battlefield nuclear weapons further complicates the situation and increases the risk of escalation.
+
+### 4.1 The Strategy
+  - The lashkar, led by a Pakistani major, arrived in Badgam in smaller groups to conceal their numbers.
+  -  They mingled with the local population, waiting for reinforcements before attacking.
+  - The ultimate objective was to capture Srinagar airfield to cut off the Indian Army's supplies and take control of Jammu and Kashmir.
+
+
+## 5. The Attack on D Company
+### 5.0 Intro to the Attack on D Company
+  - This section describes the surprise attack launched by the Pakistani forces on Major Somnath Sharma's D Company.
+  - D Company was significantly outnumbered.
+  - The attack showcases the bravery and resilience of the Indian soldiers.
+
+
+### 5.1 The Surprise Attack and Initial Response
+  - Around 2:30 p.m., the Pathans launched a surprise attack on D Company, using machine-gun and mortar fire.
+  - Sharma was concerned about returning fire and potentially harming civilians.
+  - Despite being heavily outnumbered (seven to one), D Company initially repulsed the initial attacks.
+
+
+### 5.2 Overwhelming Numbers and Continued Resistance
+  - The Pathans, reinforced by their sheer numbers, began to surround D Company from three sides.
+  -  They climbed the hillock, attacking with automatics and shouting "Allah-o-Akbar!"
+  - Despite being outgunned and facing heavy casualties, D Company continued to fight fiercely.
 
 
 
-## 5. Conclusions and Policy Implications
-### 5.0 Intro to Conclusions and Policy Implications
-  - The Pakistan Army's strategic culture is deeply entrenched and unlikely to change easily.
-  - Traditional US approaches of aid and assistance have failed to alter Pakistan's behavior.
-  -  A new approach is needed to dissuade Pakistan from using Islamist terrorism and to curb its nuclear ambitions.
+## 6. Somnath Sharma's Actions and Leadership
+### 6.0 Intro to Somnath Sharma's Actions and Leadership
+  - This section focuses on Major Somnath Sharma's leadership and courageous actions during the battle.
+  - His actions highlight his dedication, selflessness, and inspirational leadership.
 
-### 5.1 The Need for Compellence
-  - Pakistan lacks disincentives to use Islamist terrorism and pursue reckless nuclear technologies.
-  - The international community has not effectively held Pakistan accountable for its actions.
-  - A compellence strategy is needed to change Pakistan's cost-benefit calculus.
+### 6.1 Inspiring his Men
+  - Sharma encouraged his men to fight back, moving between trenches, urging them on despite facing overwhelming odds and imminent danger.
+  -  Despite having a plastered left arm, he assisted in reloading weapons and directing fire.
+  - He continued to fight despite being outnumbered and outgunned, buying precious time for reinforcements to arrive.
 
-### 5.2 Policy Recommendations
-  - The US should remove itself from Pakistan's nuclear coercion loop by holding it accountable for nuclear security and proliferation.
-  -  The US should cease providing positive incentives for Pakistan's support of militant groups.
-  -  The US should be willing to designate Pakistan as a state sponsor of terrorism and impose sanctions if necessary.
-  - The US should review all forms of bilateral and multilateral economic support to Pakistan.
-  -  The US should avoid language that legitimizes Pakistan’s claims on Kashmir in official statements.
-  - The US should consider officially supporting converting the Line of Control into the international border.
 
-### 5.3  The Need for a New Approach
-  - Given the enduring nature of Pakistan's strategic culture, the US must abandon its past policies.
-  - A new approach is needed that involves stronger compellence and a willingness to accept greater risks.
-  - The status quo is unsustainable; new strategies are needed to manage Pakistan's revisionist actions and its nuclear program.
+### 6.2 Request for Reinforcements and Ammunition
+  - Sharma requested ammunition and reinforcements, but understood that assistance would take time.
+  -  He recognized the crucial importance of holding back the enemy to prevent their advance on the airfield.
+  -  He held his position despite heavy casualties and dwindling ammunition, refusing to withdraw.
+
+
+## 7. The Final Moments and Aftermath
+### 7.0 Intro to the Final Moments and Aftermath
+  - This section details the final moments of the battle, Major Somnath Sharma's death, and the subsequent actions of his remaining men.
+
+### 7.1  Mortar Attack and Death of Somnath Sharma
+  - A mortar shell landed near Sharma while he was helping a Bren gunner reload, killing him, his sahayak, the gunner, and a JCO.
+  -  This event happened approximately five hours into the battle.
+  - Sharma died, but his men continued to fight for another hour.
+
+### 7.2 Lance Naik Balwant Singh's Heroism
+  - Lance Naik Balwant Singh took charge when ammunition ran low, collecting remaining rounds and ordering a tactical retreat.
+  - He and three other soldiers stayed behind to cover the retreat, charging the enemy and sacrificing their lives.
+  -Their actions allowed many soldiers of D Company to escape.
+
+### 7.3  The Repulse of the Pakistani Attack
+  -  D Company's brave defense delayed the Pakistani advance for approximately six hours.
+  - This delay allowed Indian reinforcements to arrive and strengthen the defense of the Srinagar airfield.
+  - A counterattack on November 5th resulted in the recapture of Badgam.  Around 300 Pathan bodies were counted.
+
+
+## 8. Somnath Sharma's Life and Legacy
+### 8.0 Intro to Somnath Sharma's Life and Legacy
+  - This section provides biographical information about Major Somnath Sharma and highlights his legacy within the Indian Army.
+
+### 8.1 Family Background and Early Life
+  - Somnath Sharma was born on January 31, 1923, in Jammu.
+  - His father was a medical corps officer who reached the rank of major general.
+  - He had two brothers (Surindra Nath and Vishwa Nath) and two sisters (Kamla and Manorama), all of whom had military connections.
+  - He attended Hampton Court Convent in Mussoorie and Sherwood College.
+
+### 8.2 Military Career
+  - He joined the Prince of Wales’s Royal Indian Military College (now RIMC) and the Indian Military Academy (IMA).
+  - He was commissioned in February 1942 at age 19, joining the 8/19 Hyderabad Regiment (later 4 Kumaon).
+  - He served in Arakan during World War II, demonstrating bravery by carrying a wounded soldier through Japanese fire.
+  - He served in internal security duties in Punjab in 1947 before deploying to Kashmir.
+  - His organizational skills were noted during his work organizing supplies and people during civil disturbances.
+  - Even with a plastered arm, he insisted on going to Kashmir and played a crucial role in the defense of Srinagar airfield.
+
+### 8.3  Award and Remembrance
+  - Awarded the Param Vir Chakra (PVC), India's highest military decoration, posthumously.  The first PVC of independent India.
+  -  The training ground at the Kumaon Regimental Centre in Ranikhet is named Somnath Sharma Ground.
+  -  He is fondly remembered within the Indian armed forces for his courage and leadership.
+  - His story is frequently recounted and used as an example of bravery and selflessness.
 

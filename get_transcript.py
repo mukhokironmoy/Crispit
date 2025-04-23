@@ -55,7 +55,7 @@ def get_date(url):
     except Exception as e:
         print("An error occurred:", e)
 
-def runner():         
+def summary_runner():         
     video_url = input("Paste the YouTube video URL: ")
     date=str(get_date(video_url))
     transcript(video_url,date)

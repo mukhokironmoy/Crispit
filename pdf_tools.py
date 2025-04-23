@@ -8,6 +8,7 @@ import fitz
 from pathlib import Path
 import os
 
+
 def clean_dir(folder_path):
     folder_path = Path(folder_path)
     for filename in os.listdir(folder_path):

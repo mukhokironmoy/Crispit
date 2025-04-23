@@ -7,7 +7,6 @@ import numpy as np
 import re
 import pdf_tools
 import gemini_calls
-import shutil
 
 img_path_list = []
     
@@ -71,10 +70,9 @@ def process():
             cv2.imwrite("temp/temp.jpg", normal)
             temp = Path("temp/temp.jpg")
             generate_text(temp, idx)
-            # normal(img,idx)
-    
+            # normal(img,idx)    
 
-def runner():
+def summary_runner():
     print("\nBook source: ")
     print("1) PDF with multiple chapters \n2)PDF without chapters  \n3)Batch of images   \n4)Single image")
     mode = int(input())
@@ -103,6 +101,60 @@ def runner():
             set_list(img_dir)
             process()
             gemini_calls.book_summary()
+            
+        case 4:
+            img_path = input("Enter the path of the file: ")
+            img_path = Path(img_path)
+            img_path_list.clear()
+            img_path_list.append(img_path)
+            process()
+            gemini_calls.book_summary()
+            
+        case _:
+            print("Enter a valid mode.\n\n")
+            summary_runner()
+            
+
+def ocr_mode():
+    print("Choose your source: ")
+    print("1) PDF \n2)Batch of images   \n3)Single image")
+    mode = int(input("\nEnter your choice:"))
+    open("data/process_files/ocr_out.txt", "w").close()
+    result_path = Path(r"D:\Projects\Crispit\data\process_files\ocr_out.txt")
+    
+    match mode:
+        case 1:
+            print("Enter the path for the pdf: ")
+            pdf_path = input()
+            pdf_tools.convert_to_img(pdf_path)
+            img_path = Path(r'data\input\imgs')
+            set_list(img_path)
+            process()
+            print("Done! View results here: ")
+            print(result_path.resolve())
+            
+        case 2:
+            img_dir = input("Enter the path of the directory containing the images: ")
+            img_dir = Path(img_dir)            
+            set_list(img_dir)
+            process()
+            print("Done! View results here: ")
+            print(result_path.resolve())
+        
+        case 3:
+            img_path = input("Enter the path of the file: ")
+            img_path = Path(img_path)
+            img_path_list.clear()
+            img_path_list.append(img_path)
+            process()
+            print("Done! View results here: ")
+            print(result_path.resolve())
+            
+            
+            
+            
+            
+    
 
 
   # def inverted():
