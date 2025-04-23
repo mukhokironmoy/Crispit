@@ -1,117 +1,218 @@
 [
   {
-    "name": "Chapter 1 : Information and Network Security Concepts",
-    "start_page": 22,
-    "end_page": 43
+    "name": "Chapter 1 : ONE",
+    "start_page": 18,
+    "end_page": 25,
+    "no_of_pages": 8
   },
   {
-    "name": "Chapter 2 : Introduction to Number Theory",
+    "name": "Chapter 2 : TWO",
+    "start_page": 26,
+    "end_page": 32,
+    "no_of_pages": 7
+  },
+  {
+    "name": "Chapter 3 : THREE",
+    "start_page": 33,
+    "end_page": 40,
+    "no_of_pages": 8
+  },
+  {
+    "name": "Chapter 4 : FOUR",
+    "start_page": 41,
+    "end_page": 44,
+    "no_of_pages": 4
+  },
+  {
+    "name": "Chapter 5 : FIVE",
     "start_page": 45,
-    "end_page": 82
+    "end_page": 50,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 3 : Classical Encryption Techniques",
-    "start_page": 84,
-    "end_page": 112
+    "name": "Chapter 6 : SIX",
+    "start_page": 51,
+    "end_page": 56,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 4 : Block Ciphers and the Data Encryption Standard",
+    "name": "Chapter 7 : SEVEN",
+    "start_page": 57,
+    "end_page": 58,
+    "no_of_pages": 2
+  },
+  {
+    "name": "Chapter 8 : EIGHT",
+    "start_page": 61,
+    "end_page": 70,
+    "no_of_pages": 10
+  },
+  {
+    "name": "Chapter 9 : NINE",
+    "start_page": 71,
+    "end_page": 78,
+    "no_of_pages": 8
+  },
+  {
+    "name": "Chapter 10 : TEN",
+    "start_page": 79,
+    "end_page": 80,
+    "no_of_pages": 2
+  },
+  {
+    "name": "Chapter 11 : ELEVEN",
+    "start_page": 91,
+    "end_page": 97,
+    "no_of_pages": 7
+  },
+  {
+    "name": "Chapter 12 : TWELVE",
+    "start_page": 98,
+    "end_page": 105,
+    "no_of_pages": 8
+  },
+  {
+    "name": "Chapter 13 : THIRTEEN",
+    "start_page": 106,
+    "end_page": 112,
+    "no_of_pages": 7
+  },
+  {
+    "name": "Chapter 14 : FOURTEEN",
     "start_page": 113,
-    "end_page": 135
+    "end_page": 118,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 5 : Finite Fields",
-    "start_page": 136,
-    "end_page": 165
+    "name": "Chapter 15 : FIFTEEN",
+    "start_page": 119,
+    "end_page": 128,
+    "no_of_pages": 10
   },
   {
-    "name": "Chapter 6 : Advanced Encryption Standard",
+    "name": "Chapter 16 : SIXTEEN",
+    "start_page": 129,
+    "end_page": 139,
+    "no_of_pages": 11
+  },
+  {
+    "name": "Chapter 17 : SEVENTEEN",
+    "start_page": 140,
+    "end_page": 146,
+    "no_of_pages": 7
+  },
+  {
+    "name": "Chapter 18 : EIGHTEEN",
+    "start_page": 147,
+    "end_page": 156,
+    "no_of_pages": 10
+  },
+  {
+    "name": "Chapter 19 : NINETEEN",
+    "start_page": 157,
+    "end_page": 165,
+    "no_of_pages": 9
+  },
+  {
+    "name": "Chapter 20 : TWENTY",
     "start_page": 166,
-    "end_page": 200
+    "end_page": 173,
+    "no_of_pages": 8
   },
   {
-    "name": "Chapter 7 : Block Cipher Operation",
-    "start_page": 201,
-    "end_page": 244
+    "name": "Chapter 21 : TWENTY-ONE",
+    "start_page": 174,
+    "end_page": 180,
+    "no_of_pages": 7
   },
   {
-    "name": "Chapter 8 : Random Bit Generation and Stream Ciphers",
-    "start_page": 245,
-    "end_page": 284
+    "name": "Chapter 22 : TWENTY-TWO",
+    "start_page": 181,
+    "end_page": 186,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 9 : Public-Key Cryptography and RSA",
-    "start_page": 285,
-    "end_page": 313
+    "name": "Chapter 23 : TWENTY-THREE",
+    "start_page": 187,
+    "end_page": 193,
+    "no_of_pages": 7
   },
   {
-    "name": "Chapter 10 : Other Public-Key Cryptosystems",
-    "start_page": 314,
-    "end_page": 336
+    "name": "Chapter 24 : TWENTY-FOUR",
+    "start_page": 194,
+    "end_page": 202,
+    "no_of_pages": 9
   },
   {
-    "name": "Chapter 11 : Cryptographic Hash Functions",
-    "start_page": 337,
-    "end_page": 378
+    "name": "Chapter 25 : TWENTY-FIVE",
+    "start_page": 203,
+    "end_page": 211,
+    "no_of_pages": 9
   },
   {
-    "name": "Chapter 12 : Message Authentication Codes",
-    "start_page": 379,
-    "end_page": 416
+    "name": "Chapter 26 : TWENTY-SIX",
+    "start_page": 217,
+    "end_page": 228,
+    "no_of_pages": 12
   },
   {
-    "name": "Chapter 13 : Digital Signatures",
-    "start_page": 417,
-    "end_page": 438
+    "name": "Chapter 27 : TWENTY-SEVEN",
+    "start_page": 229,
+    "end_page": 239,
+    "no_of_pages": 11
   },
   {
-    "name": "Chapter 14 : Lightweight Cryptography and Post-Quantum Cryptography",
-    "start_page": 439,
-    "end_page": 473
+    "name": "Chapter 28 : TWENTY-EIGHT",
+    "start_page": 240,
+    "end_page": 248,
+    "no_of_pages": 9
   },
   {
-    "name": "Chapter 15 : Cryptographic Key Management and Distribution",
-    "start_page": 474,
-    "end_page": 500
+    "name": "Chapter 29 : TWENTY-NINE",
+    "start_page": 249,
+    "end_page": 256,
+    "no_of_pages": 8
   },
   {
-    "name": "Chapter 16 : User Authentication",
-    "start_page": 501,
-    "end_page": 532
+    "name": "Chapter 30 : THIRTY",
+    "start_page": 257,
+    "end_page": 262,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 17 : Transport-Level Security",
-    "start_page": 533,
-    "end_page": 566
+    "name": "Chapter 31 : THIRTY-ONE",
+    "start_page": 263,
+    "end_page": 268,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 18 : Wireless Network Security",
-    "start_page": 567,
-    "end_page": 597
+    "name": "Chapter 32 : THIRTY-TWO",
+    "start_page": 269,
+    "end_page": 274,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 19 : Electronic Mail Security",
-    "start_page": 598,
-    "end_page": 640
+    "name": "Chapter 33 : THIRTY-THREE",
+    "start_page": 275,
+    "end_page": 280,
+    "no_of_pages": 6
   },
   {
-    "name": "Chapter 20 : IP Security",
-    "start_page": 641,
-    "end_page": 669
+    "name": "Chapter 34 : THIRTY-FOUR",
+    "start_page": 281,
+    "end_page": 289,
+    "no_of_pages": 9
   },
   {
-    "name": "Chapter 21 : Network Endpoint Security",
-    "start_page": 670,
-    "end_page": 698
+    "name": "Chapter 35 : THIRTY-FIVE",
+    "start_page": 290,
+    "end_page": 302,
+    "no_of_pages": 13
   },
   {
-    "name": "Chapter 22 : Cloud Security",
-    "start_page": 699,
-    "end_page": 725
-  },
-  {
-    "name": "Chapter 23 : Internet of Things (IoT) Security",
-    "start_page": 726,
-    "end_page": 744
+    "name": "Chapter 36 : THIRTY-SIX",
+    "start_page": 303,
+    "end_page": 305,
+    "no_of_pages": 3
   }
 ]

@@ -7,6 +7,7 @@ import numpy as np
 import re
 import pdf_tools
 import gemini_calls
+import os
 from timer import time_it
 
 img_path_list = []
@@ -28,9 +29,11 @@ def set_list(img_dir):
         
         img_path = Path(filename)
         img_path_list.append(img_path)
-        
-    # for thing in img_path_list:
-    #     print(thing)
+    
+    print("Images in queue : ")   
+    for thing in img_path_list:
+        print(thing)
+    print("Queue finalised. \n\n")
         
 def thick_font(image):
     import numpy as np
@@ -43,6 +46,7 @@ def thick_font(image):
 def generate_text(path, idx):
     img = Image.open(path)
     ocr_result = pytesseract.image_to_string(img)
+    open("data/process_files/ocr_out.txt", "a", encoding="utf-8").close()
     print(f"Generated result for img{idx}.") 
     with open("data/process_files/ocr_out.txt", "a", encoding="utf-8") as f:
                 f.write(f"Page {idx} \n\n")
@@ -71,7 +75,18 @@ def ocr_processing():
             cv2.imwrite("temp/temp.jpg", normal)
             temp = Path("temp/temp.jpg")
             generate_text(temp, idx)
-            # normal(img,idx)    
+            # normal(img,idx)
+        
+    img_path_list.clear()
+
+def set_title(book_path):
+    book_path = Path(book_path)
+    filename = "TITLE - " + str(book_path.stem) + "\n\n"
+    
+    with open(r"data\process_files\ocr_out.txt", "r+", encoding ="utf-8") as f:
+        existing_content = f.read()
+        f.seek(0)
+        f.write(filename + existing_content)
 
 def summary_runner():
     print("\nBook source: ")
@@ -85,7 +100,36 @@ def summary_runner():
             pdf_path = input()
             
             #split book into chapters
-            time_it(pdf_tools.split_pdf_into_chapters,pdf_path)            
+            time_it(pdf_tools.split_pdf_into_chapters,pdf_path)
+            
+            src = Path(r"temp\chapter_split")
+            
+            def extract_number(path):
+                match = re.search(r'(\d+)',path.name)
+                return int(match.group()) if match else -1
+                
+            for filename in sorted(src.glob('*.*'), key=extract_number):        
+                if Path(filename).is_dir():
+                    continue
+                
+                print(f"Processing file : {filename}")
+                
+                open("data/process_files/ocr_out.txt", "w").close()
+                
+                #convert pdf to images
+                time_it(pdf_tools.convert_pdf_to_img,Path(filename))
+                
+                img_path = Path(r'data\input\imgs')
+                set_list(img_path)
+                
+                #ocr processing
+                time_it(ocr_processing)
+                
+                #assigning title
+                set_title(Path(filename))
+                
+                #summarization
+                time_it(gemini_calls.book_summary)
             
         case 2:
             print("Enter the path for the pdf: ")
@@ -100,16 +144,26 @@ def summary_runner():
             #ocr processing
             time_it(ocr_processing)
             
+            #assigning title
+            set_title(pdf_path)
+            
             #summarization
             time_it(gemini_calls.book_summary)
                         
         case 3:
             img_dir = input("Enter the path of the directory containing the images: ")
-            img_dir = Path(img_dir)            
+            img_dir = Path(img_dir)
+            title = input("Enter the name that you would like for your output file: ")        
             set_list(img_dir)
             
             #ocr processing
             time_it(ocr_processing)
+            
+            #set title
+            with open(r"data\process_files\ocr_out.txt", "r+", encoding ="utf-8") as f:
+                existing_content = f.read()
+                f.seek(0)
+                f.write(title +"\n\n"+ existing_content)
             
             #summarization
             time_it(gemini_calls.book_summary)
@@ -117,13 +171,19 @@ def summary_runner():
         case 4:
             img_path = input("Enter the path of the file: ")
             img_path = Path(img_path)
+            title = input("Enter the name that you would like for your output file: ")        
             img_path_list.clear()
             img_path_list.append(img_path)
             
             #ocr processing
             time_it(ocr_processing)
             
-            
+            #set title
+            with open(r"data\process_files\ocr_out.txt", "r+", encoding ="utf-8") as f:
+                existing_content = f.read()
+                f.seek(0)
+                f.write(title +"\n\n"+ existing_content)
+                
             #summarization
             time_it(gemini_calls.book_summary)
                         

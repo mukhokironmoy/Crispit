@@ -45,7 +45,7 @@ DO NOT OMMIT any events, names, or issues—even minor ones.
 Maintain chronological or logical flow where applicable.
 
 7)Title of the document
-The name of the document will be provided below
+The name of the document will be provided at the top of the text file
 The title should be in the format of:
 #Crsipit - <name of document>
 Make sure not to use any illegal characters in the title as this title will be used as the name of a pdf which has to be saved. So avoid :,/ etc.

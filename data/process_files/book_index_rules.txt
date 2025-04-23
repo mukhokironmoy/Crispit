@@ -8,8 +8,12 @@ The page numbers should be extracted so that:
 -   The end page is the last page where the main chapter content concludes (before any review questions, problems, or appendices specific to that chapter).
 -   For chapter N, the start page should be the same as the end page of chapter N-1 + 1.  This rule does not apply to chapter 1.
 
-Provide the output in JSON format, with each chapter's data as a separate object in an array. Each object must have the following keys:  \"name\" (chapter title as it appears in the document) , \"start_page\" (integer, the PDF page number where the chapter starts), and \"end\_page\" (integer, the PDF page number where the chapter ends).
+MAKE SURE THAT THE START OF CHAPTER N IS EXACTLT ONE PAGE AFTER THE END OF CHAPTER N-1.
+THIS MEANS THAT IF CHAPTER 1 ENDS AT PAGE 6, CHAPTER 2 SHOULD START AT PAGE 7. DO NOT MESS IT UP.
 
+ALSO MAKE SURE THAT YOU ARE COVERING ALL CHAPTERS SEPARATELY. ONLY ONE CHAPTER PER ENTRY IN THE JSON. DONT MAKE THE MISTAKE OF PUTTING MORE THAN ONE CHAPTER'S WORTH OF PAGES AS A SINGLE CHAPTER IN THE INDEX. THIS WILL CAUSE MISSING OUT OF CHAPTERS.
+Provide the output in JSON format, with each chapter's data as a separate object in an array. Each object must have the following keys:  \"name\" (chapter title as it appears in the document) , \"start_page\" (integer, the PDF page number where the chapter starts), \"end\_page\" (integer, the PDF page number where the chapter ends) and "no_of_pages" (end - start).
+TO VALIDATE THAT THE INDEX IS CORRECT CHECK THAT THE SUM OF ALL CHAPTERS IS SAME AS END(LAST CHAPTER) - START(FIRST CHAPTER)
 Here is the format I want you to follow:
 
 
@@ -18,11 +22,14 @@ Here is the format I want you to follow:
     "name": "Chapter 1 : <name of chapter>",
     "start_page": <start_page_number>,
     "end_page": <end_page_number>
+    "no_of_pages": <no of pages (end_page-start_page)>
   },
   {
     "name": "Chapter 2 : <name of chapter>",
     "start_page": <start_page_number>,
     "end_page": <end_page_number>
+    "no_of_pages": <no of pages (end_page-start_page)>
+
   },
   ...
 ]
