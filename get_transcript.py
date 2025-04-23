@@ -2,6 +2,7 @@ from youtube_transcript_api import YouTubeTranscriptApi as scriptapi
 from youtube_transcript_api.formatters import TextFormatter as format
 import gemini_calls
 from pytube import YouTube
+from timer import time_it
 
 def get_video_id(url):
     import re
@@ -58,5 +59,9 @@ def get_date(url):
 def summary_runner():         
     video_url = input("Paste the YouTube video URL: ")
     date=str(get_date(video_url))
-    transcript(video_url,date)
-    gemini_calls.news_summary(date)
+    
+    #get transcript
+    time_it(transcript,video_url,date)
+    
+    #get summary
+    time_it(gemini_calls.news_summary,date)

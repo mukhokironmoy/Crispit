@@ -1,5 +1,6 @@
 import gemini_calls
 import ocr
+from timer import time_it
 
 
 if __name__ == "__main__":
@@ -11,8 +12,11 @@ if __name__ == "__main__":
     
     match mode:
         case 1:
-            gemini_calls.summary_mode()
+            time_it(gemini_calls.summary_mode)
+            
         case 2:
-            ocr.ocr_mode()
+            time_it(ocr.ocr_mode)
+
+            
             
     

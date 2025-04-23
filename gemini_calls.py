@@ -5,6 +5,7 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv
 import pdf_tools
+from timer import time_it
 
 
 def news_summary(date):
@@ -46,7 +47,7 @@ def news_summary(date):
       f.write(response.text)
 
   print("Saved")
-  pdf_tools.md_to_pdf(date,r"data\process_files\news_result.md","News Bulletin")
+  pdf_tools.convert_md_to_pdf(date,r"data\process_files\news_result.md","News Bulletin")
 
 #------------------------------------------------------------------------------------------------------
 
@@ -141,7 +142,7 @@ def book_summary():
     
 
   print("Saved")
-  pdf_tools.md_to_pdf(date,r"data\process_files\book_result.md",title)
+  pdf_tools.convert_md_to_pdf(date,r"data\process_files\book_result.md",title)
 
 #------------------------------------------------------------------------------------------------------
    
@@ -153,9 +154,9 @@ def summary_mode():
   mode = int(input("\nEnter your choice: "))
   match mode:
       case 1:
-          get_transcript.summary_runner()
+          time_it(get_transcript.summary_runner)
       case 2:
-          ocr.summary_runner()
+          time_it(ocr.summary_runner)
       case _:
           print("Invalid input. Enter a valid choice.")
           summary_mode()

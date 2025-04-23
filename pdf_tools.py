@@ -17,7 +17,7 @@ def clean_dir(folder_path):
             os.remove(file_path)
     print("Folder Cleaned.")
 
-def md_to_pdf(date,path,title):
+def convert_md_to_pdf(date,path,title):
     print("Converting md to pdf....")
     with open(path,'r', encoding="utf-8") as f:
         md_text = f.read()
@@ -42,12 +42,19 @@ def md_to_pdf(date,path,title):
     """
     if(path == r"data\process_files\news_result.md"):
         HTML(string=html_text).write_pdf(f"data/output/Crispit - {title} ({date}).pdf")
+        result = Path(f"data/output/Crispit - {title} ({date}).pdf")
+        print("Done! You can view the results here :")
+        print(result.resolve())
+        
     else:
         HTML(string=html_text).write_pdf(f"data/output/{title}.pdf")
+        result = Path(f"data/output/{title}.pdf")
+        print("Done! You can view the results here :")
+        print(result.resolve())
         
     
     
-def split_into_chapters(path_of_book):
+def split_pdf_into_chapters(path_of_book):
     import gemini_calls
     #use gemini to create an index
     gemini_calls.get_index(path_of_book)
@@ -84,7 +91,7 @@ def split_into_chapters(path_of_book):
         print(f"Source split - {output_filename}.pdf")
         
     
-def convert_to_img(path):
+def convert_pdf_to_img(path):
     path = Path(path)
     images = fitz.open(path)
     output_path = Path(r'data\input\imgs')

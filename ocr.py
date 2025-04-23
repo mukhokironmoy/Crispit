@@ -7,6 +7,7 @@ import numpy as np
 import re
 import pdf_tools
 import gemini_calls
+from timer import time_it
 
 img_path_list = []
     
@@ -28,8 +29,8 @@ def set_list(img_dir):
         img_path = Path(filename)
         img_path_list.append(img_path)
         
-    for thing in img_path_list:
-        print(thing)
+    # for thing in img_path_list:
+    #     print(thing)
         
 def thick_font(image):
     import numpy as np
@@ -54,7 +55,7 @@ def is_inverted(img):
     mean_brightness = np.mean(gray)
     return mean_brightness < 127
 
-def process():
+def ocr_processing():
     for idx,path in enumerate(img_path_list):
         img = cv2.imread(str(path))
         
@@ -82,34 +83,50 @@ def summary_runner():
         case 1:
             print("Enter the path for the pdf:")
             pdf_path = input()
-            pdf_tools.split_into_chapters(pdf_path)
             
+            #split book into chapters
+            time_it(pdf_tools.split_pdf_into_chapters,pdf_path)            
             
         case 2:
             print("Enter the path for the pdf: ")
             pdf_path = input()
-            pdf_tools.convert_to_img(pdf_path)
+            
+            #convert pdf to images
+            time_it(pdf_tools.convert_pdf_to_img,pdf_path)
+            
             img_path = Path(r'data\input\imgs')
             set_list(img_path)
-            process()
-            gemini_calls.book_summary()
             
+            #ocr processing
+            time_it(ocr_processing)
+            
+            #summarization
+            time_it(gemini_calls.book_summary)
                         
         case 3:
             img_dir = input("Enter the path of the directory containing the images: ")
             img_dir = Path(img_dir)            
             set_list(img_dir)
-            process()
-            gemini_calls.book_summary()
             
+            #ocr processing
+            time_it(ocr_processing)
+            
+            #summarization
+            time_it(gemini_calls.book_summary)
+
         case 4:
             img_path = input("Enter the path of the file: ")
             img_path = Path(img_path)
             img_path_list.clear()
             img_path_list.append(img_path)
-            process()
-            gemini_calls.book_summary()
             
+            #ocr processing
+            time_it(ocr_processing)
+            
+            
+            #summarization
+            time_it(gemini_calls.book_summary)
+                        
         case _:
             print("Enter a valid mode.\n\n")
             summary_runner()
@@ -126,10 +143,17 @@ def ocr_mode():
         case 1:
             print("Enter the path for the pdf: ")
             pdf_path = input()
-            pdf_tools.convert_to_img(pdf_path)
+            
+            #convert pdf to images
+            time_it(pdf_tools.convert_pdf_to_img,pdf_path)
+            
             img_path = Path(r'data\input\imgs')
             set_list(img_path)
-            process()
+            
+            #ocr processing
+            time_it(ocr_processing)
+            
+            #print result
             print("Done! View results here: ")
             print(result_path.resolve())
             
@@ -137,7 +161,11 @@ def ocr_mode():
             img_dir = input("Enter the path of the directory containing the images: ")
             img_dir = Path(img_dir)            
             set_list(img_dir)
-            process()
+            
+            #ocr processing
+            time_it(ocr_processing)
+            
+            #print result
             print("Done! View results here: ")
             print(result_path.resolve())
         
@@ -146,7 +174,11 @@ def ocr_mode():
             img_path = Path(img_path)
             img_path_list.clear()
             img_path_list.append(img_path)
-            process()
+            
+            #ocr processing
+            time_it(ocr_processing)
+            
+            #print result
             print("Done! View results here: ")
             print(result_path.resolve())
             
